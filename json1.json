@@ -1,0 +1,43 @@
+[  
+  {
+    "enviroment": "process.env.NODE_ENV",
+    "port": 3000,
+    "tokenVal": "0123456789abcdefghijk",
+    "mongoDbConfig": {
+      "connection": "mongodb://localhost:27017/dbName",
+      "options": {
+        "useNewUrlParser": true
+      }
+    },
+    "httpsOptions": {
+      "key": "fs.readFileSync('./cert/key.pem')",
+      "cert": "fs.readFileSync('./cert/cert.pem')"
+    }
+  },
+  
+
+  {
+      "rawData" : {
+          "rainfall" : "data/RainFallData.xlsx"
+      },
+      "mongoDbConfig" : {
+          "url" : "localhost:27017",
+          "dbName1" : "JUProject2019",
+          "dbName" : "WeatherDataAnalysis",
+          "collectionName" : {
+              "rainfall": "RainFallData"
+          }
+      },
+      "expectData" : {
+          "clientQuery" :{
+              "searchingStates" : "src/share/indianStates.json",
+              "searchingMonths" : "src/share/months.json"
+          }
+      },
+      "ann" : {
+          "annLength" : 8,
+          "hiddenSize": 5,
+          "learningRate": 0.2
+      }
+  }
+]
