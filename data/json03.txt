@@ -1,0 +1,9899 @@
+/* 1 */
+{
+    "_id" : "rainfall0",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1951.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 82.7
+}
+
+/* 2 */
+{
+    "_id" : "rainfall1",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1951.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 7.2
+}
+
+/* 3 */
+{
+    "_id" : "rainfall2",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1951.0,
+    "MONTH" : "MARCH",
+    "DATA" : 0.0
+}
+
+/* 4 */
+{
+    "_id" : "rainfall3",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1951.0,
+    "MONTH" : "APRIL",
+    "DATA" : 45.4
+}
+
+/* 5 */
+{
+    "_id" : "rainfall4",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1951.0,
+    "MONTH" : "MAY",
+    "DATA" : 259.0
+}
+
+/* 6 */
+{
+    "_id" : "rainfall5",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1951.0,
+    "MONTH" : "JUNE",
+    "DATA" : 619.9
+}
+
+/* 7 */
+{
+    "_id" : "rainfall6",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1951.0,
+    "MONTH" : "JULY",
+    "DATA" : 665.3
+}
+
+/* 8 */
+{
+    "_id" : "rainfall7",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1951.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 101.3
+}
+
+/* 9 */
+{
+    "_id" : "rainfall8",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1951.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 360.9
+}
+
+/* 10 */
+{
+    "_id" : "rainfall9",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1951.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 489.0
+}
+
+/* 11 */
+{
+    "_id" : "rainfall10",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1951.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 209.6
+}
+
+/* 12 */
+{
+    "_id" : "rainfall11",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1951.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 434.8
+}
+
+/* 13 */
+{
+    "_id" : "rainfall12",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1952.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 0.0
+}
+
+/* 14 */
+{
+    "_id" : "rainfall13",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1952.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 0.8
+}
+
+/* 15 */
+{
+    "_id" : "rainfall14",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1952.0,
+    "MONTH" : "MARCH",
+    "DATA" : 69.7
+}
+
+/* 16 */
+{
+    "_id" : "rainfall15",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1952.0,
+    "MONTH" : "APRIL",
+    "DATA" : 39.4
+}
+
+/* 17 */
+{
+    "_id" : "rainfall16",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1952.0,
+    "MONTH" : "MAY",
+    "DATA" : 452.9
+}
+
+/* 18 */
+{
+    "_id" : "rainfall17",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1952.0,
+    "MONTH" : "JUNE",
+    "DATA" : 657.7
+}
+
+/* 19 */
+{
+    "_id" : "rainfall18",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1952.0,
+    "MONTH" : "JULY",
+    "DATA" : 385.5
+}
+
+/* 20 */
+{
+    "_id" : "rainfall19",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1952.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 541.3
+}
+
+/* 21 */
+{
+    "_id" : "rainfall20",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1952.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 240.3
+}
+
+/* 22 */
+{
+    "_id" : "rainfall21",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1952.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 315.6
+}
+
+/* 23 */
+{
+    "_id" : "rainfall22",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1952.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 287.5
+}
+
+/* 24 */
+{
+    "_id" : "rainfall23",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1952.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 89.2
+}
+
+/* 25 */
+{
+    "_id" : "rainfall24",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1953.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 56.0
+}
+
+/* 26 */
+{
+    "_id" : "rainfall25",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1953.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 65.3
+}
+
+/* 27 */
+{
+    "_id" : "rainfall26",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1953.0,
+    "MONTH" : "MARCH",
+    "DATA" : 20.1
+}
+
+/* 28 */
+{
+    "_id" : "rainfall27",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1953.0,
+    "MONTH" : "APRIL",
+    "DATA" : 159.4
+}
+
+/* 29 */
+{
+    "_id" : "rainfall28",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1953.0,
+    "MONTH" : "MAY",
+    "DATA" : 241.1
+}
+
+/* 30 */
+{
+    "_id" : "rainfall29",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1953.0,
+    "MONTH" : "JUNE",
+    "DATA" : 549.9
+}
+
+/* 31 */
+{
+    "_id" : "rainfall30",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1953.0,
+    "MONTH" : "JULY",
+    "DATA" : 444.4
+}
+
+/* 32 */
+{
+    "_id" : "rainfall31",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1953.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 262.8
+}
+
+/* 33 */
+{
+    "_id" : "rainfall32",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1953.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 370.1
+}
+
+/* 34 */
+{
+    "_id" : "rainfall33",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1953.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 243.6
+}
+
+/* 35 */
+{
+    "_id" : "rainfall34",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1953.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 246.0
+}
+
+/* 36 */
+{
+    "_id" : "rainfall35",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1953.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 63.3
+}
+
+/* 37 */
+{
+    "_id" : "rainfall36",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1954.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 83.8
+}
+
+/* 38 */
+{
+    "_id" : "rainfall37",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1954.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 2.1
+}
+
+/* 39 */
+{
+    "_id" : "rainfall38",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1954.0,
+    "MONTH" : "MARCH",
+    "DATA" : 34.3
+}
+
+/* 40 */
+{
+    "_id" : "rainfall39",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1954.0,
+    "MONTH" : "APRIL",
+    "DATA" : 58.0
+}
+
+/* 41 */
+{
+    "_id" : "rainfall40",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1954.0,
+    "MONTH" : "MAY",
+    "DATA" : 394.7
+}
+
+/* 42 */
+{
+    "_id" : "rainfall41",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1954.0,
+    "MONTH" : "JUNE",
+    "DATA" : 539.4
+}
+
+/* 43 */
+{
+    "_id" : "rainfall42",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1954.0,
+    "MONTH" : "JULY",
+    "DATA" : 510.8
+}
+
+/* 44 */
+{
+    "_id" : "rainfall43",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1954.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 605.4
+}
+
+/* 45 */
+{
+    "_id" : "rainfall44",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1954.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 763.8
+}
+
+/* 46 */
+{
+    "_id" : "rainfall45",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1954.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 247.2
+}
+
+/* 47 */
+{
+    "_id" : "rainfall46",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1954.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 84.8
+}
+
+/* 48 */
+{
+    "_id" : "rainfall47",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1954.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 124.7
+}
+
+/* 49 */
+{
+    "_id" : "rainfall48",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1955.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 57.3
+}
+
+/* 50 */
+{
+    "_id" : "rainfall49",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1955.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 28.2
+}
+
+/* 51 */
+{
+    "_id" : "rainfall50",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1955.0,
+    "MONTH" : "MARCH",
+    "DATA" : 9.9
+}
+
+/* 52 */
+{
+    "_id" : "rainfall51",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1955.0,
+    "MONTH" : "APRIL",
+    "DATA" : 68.8
+}
+
+/* 53 */
+{
+    "_id" : "rainfall52",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1955.0,
+    "MONTH" : "MAY",
+    "DATA" : 663.6
+}
+
+/* 54 */
+{
+    "_id" : "rainfall53",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1955.0,
+    "MONTH" : "JUNE",
+    "DATA" : 651.1
+}
+
+/* 55 */
+{
+    "_id" : "rainfall54",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1955.0,
+    "MONTH" : "JULY",
+    "DATA" : 298.4
+}
+
+/* 56 */
+{
+    "_id" : "rainfall55",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1955.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 356.9
+}
+
+/* 57 */
+{
+    "_id" : "rainfall56",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1955.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 341.8
+}
+
+/* 58 */
+{
+    "_id" : "rainfall57",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1955.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 466.5
+}
+
+/* 59 */
+{
+    "_id" : "rainfall58",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1955.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 362.9
+}
+
+/* 60 */
+{
+    "_id" : "rainfall59",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1955.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 44.2
+}
+
+/* 61 */
+{
+    "_id" : "rainfall60",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1956.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 49.2
+}
+
+/* 62 */
+{
+    "_id" : "rainfall61",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1956.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 77.2
+}
+
+/* 63 */
+{
+    "_id" : "rainfall62",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1956.0,
+    "MONTH" : "MARCH",
+    "DATA" : 33.8
+}
+
+/* 64 */
+{
+    "_id" : "rainfall63",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1956.0,
+    "MONTH" : "APRIL",
+    "DATA" : 130.3
+}
+
+/* 65 */
+{
+    "_id" : "rainfall64",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1956.0,
+    "MONTH" : "MAY",
+    "DATA" : 491.8
+}
+
+/* 66 */
+{
+    "_id" : "rainfall65",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1956.0,
+    "MONTH" : "JUNE",
+    "DATA" : 343.1
+}
+
+/* 67 */
+{
+    "_id" : "rainfall66",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1956.0,
+    "MONTH" : "JULY",
+    "DATA" : 468.4
+}
+
+/* 68 */
+{
+    "_id" : "rainfall67",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1956.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 467.7
+}
+
+/* 69 */
+{
+    "_id" : "rainfall68",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1956.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 325.1
+}
+
+/* 70 */
+{
+    "_id" : "rainfall69",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1956.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 458.7
+}
+
+/* 71 */
+{
+    "_id" : "rainfall70",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1956.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 164.1
+}
+
+/* 72 */
+{
+    "_id" : "rainfall71",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1956.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 70.5
+}
+
+/* 73 */
+{
+    "_id" : "rainfall72",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1957.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 28.0
+}
+
+/* 74 */
+{
+    "_id" : "rainfall73",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1957.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 19.3
+}
+
+/* 75 */
+{
+    "_id" : "rainfall74",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1957.0,
+    "MONTH" : "MARCH",
+    "DATA" : 4.6
+}
+
+/* 76 */
+{
+    "_id" : "rainfall75",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1957.0,
+    "MONTH" : "APRIL",
+    "DATA" : 19.0
+}
+
+/* 77 */
+{
+    "_id" : "rainfall76",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1957.0,
+    "MONTH" : "MAY",
+    "DATA" : 142.4
+}
+
+/* 78 */
+{
+    "_id" : "rainfall77",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1957.0,
+    "MONTH" : "JUNE",
+    "DATA" : 741.9
+}
+
+/* 79 */
+{
+    "_id" : "rainfall78",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1957.0,
+    "MONTH" : "JULY",
+    "DATA" : 316.2
+}
+
+/* 80 */
+{
+    "_id" : "rainfall79",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1957.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 421.3
+}
+
+/* 81 */
+{
+    "_id" : "rainfall80",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1957.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 354.3
+}
+
+/* 82 */
+{
+    "_id" : "rainfall81",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1957.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 299.7
+}
+
+/* 83 */
+{
+    "_id" : "rainfall82",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1957.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 88.6
+}
+
+/* 84 */
+{
+    "_id" : "rainfall83",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1957.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 71.9
+}
+
+/* 85 */
+{
+    "_id" : "rainfall84",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1958.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 22.9
+}
+
+/* 86 */
+{
+    "_id" : "rainfall85",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1958.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 14.3
+}
+
+/* 87 */
+{
+    "_id" : "rainfall86",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1958.0,
+    "MONTH" : "MARCH",
+    "DATA" : 30.4
+}
+
+/* 88 */
+{
+    "_id" : "rainfall87",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1958.0,
+    "MONTH" : "APRIL",
+    "DATA" : 24.6
+}
+
+/* 89 */
+{
+    "_id" : "rainfall88",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1958.0,
+    "MONTH" : "MAY",
+    "DATA" : 355.1
+}
+
+/* 90 */
+{
+    "_id" : "rainfall89",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1958.0,
+    "MONTH" : "JUNE",
+    "DATA" : 530.7
+}
+
+/* 91 */
+{
+    "_id" : "rainfall90",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1958.0,
+    "MONTH" : "JULY",
+    "DATA" : 440.7
+}
+
+/* 92 */
+{
+    "_id" : "rainfall91",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1958.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 388.4
+}
+
+/* 93 */
+{
+    "_id" : "rainfall92",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1958.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 350.6
+}
+
+/* 94 */
+{
+    "_id" : "rainfall93",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1958.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 265.2
+}
+
+/* 95 */
+{
+    "_id" : "rainfall94",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1958.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 313.8
+}
+
+/* 96 */
+{
+    "_id" : "rainfall95",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1958.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 70.7
+}
+
+/* 97 */
+{
+    "_id" : "rainfall96",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1959.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 10.1
+}
+
+/* 98 */
+{
+    "_id" : "rainfall97",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1959.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 1.8
+}
+
+/* 99 */
+{
+    "_id" : "rainfall98",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1959.0,
+    "MONTH" : "MARCH",
+    "DATA" : 31.3
+}
+
+/* 100 */
+{
+    "_id" : "rainfall99",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1959.0,
+    "MONTH" : "APRIL",
+    "DATA" : 86.7
+}
+
+/* 101 */
+{
+    "_id" : "rainfall100",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1959.0,
+    "MONTH" : "MAY",
+    "DATA" : 238.1
+}
+
+/* 102 */
+{
+    "_id" : "rainfall101",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1959.0,
+    "MONTH" : "JUNE",
+    "DATA" : 455.7
+}
+
+/* 103 */
+{
+    "_id" : "rainfall102",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1959.0,
+    "MONTH" : "JULY",
+    "DATA" : 817.1
+}
+
+/* 104 */
+{
+    "_id" : "rainfall103",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1959.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 409.3
+}
+
+/* 105 */
+{
+    "_id" : "rainfall104",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1959.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 589.6
+}
+
+/* 106 */
+{
+    "_id" : "rainfall105",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1959.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 332.7
+}
+
+/* 107 */
+{
+    "_id" : "rainfall106",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1959.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 242.5
+}
+
+/* 108 */
+{
+    "_id" : "rainfall107",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1959.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 128.5
+}
+
+/* 109 */
+{
+    "_id" : "rainfall108",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1960.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 104.2
+}
+
+/* 110 */
+{
+    "_id" : "rainfall109",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1960.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 72.4
+}
+
+/* 111 */
+{
+    "_id" : "rainfall110",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1960.0,
+    "MONTH" : "MARCH",
+    "DATA" : 12.1
+}
+
+/* 112 */
+{
+    "_id" : "rainfall111",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1960.0,
+    "MONTH" : "APRIL",
+    "DATA" : 53.5
+}
+
+/* 113 */
+{
+    "_id" : "rainfall112",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1960.0,
+    "MONTH" : "MAY",
+    "DATA" : 535.4
+}
+
+/* 114 */
+{
+    "_id" : "rainfall113",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1960.0,
+    "MONTH" : "JUNE",
+    "DATA" : 541.5
+}
+
+/* 115 */
+{
+    "_id" : "rainfall114",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1960.0,
+    "MONTH" : "JULY",
+    "DATA" : 308.4
+}
+
+/* 116 */
+{
+    "_id" : "rainfall115",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1960.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 270.7
+}
+
+/* 117 */
+{
+    "_id" : "rainfall116",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1960.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 442.4
+}
+
+/* 118 */
+{
+    "_id" : "rainfall117",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1960.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 400.0
+}
+
+/* 119 */
+{
+    "_id" : "rainfall118",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1960.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 191.7
+}
+
+/* 120 */
+{
+    "_id" : "rainfall119",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1960.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 92.8
+}
+
+/* 121 */
+{
+    "_id" : "rainfall120",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1961.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 82.1
+}
+
+/* 122 */
+{
+    "_id" : "rainfall121",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1961.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 99.4
+}
+
+/* 123 */
+{
+    "_id" : "rainfall122",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1961.0,
+    "MONTH" : "MARCH",
+    "DATA" : 33.2
+}
+
+/* 124 */
+{
+    "_id" : "rainfall123",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1961.0,
+    "MONTH" : "APRIL",
+    "DATA" : 88.1
+}
+
+/* 125 */
+{
+    "_id" : "rainfall124",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1961.0,
+    "MONTH" : "MAY",
+    "DATA" : 973.1
+}
+
+/* 126 */
+{
+    "_id" : "rainfall125",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1961.0,
+    "MONTH" : "JUNE",
+    "DATA" : 383.3
+}
+
+/* 127 */
+{
+    "_id" : "rainfall126",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1961.0,
+    "MONTH" : "JULY",
+    "DATA" : 304.9
+}
+
+/* 128 */
+{
+    "_id" : "rainfall127",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1961.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 557.1
+}
+
+/* 129 */
+{
+    "_id" : "rainfall128",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1961.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 612.0
+}
+
+/* 130 */
+{
+    "_id" : "rainfall129",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1961.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 379.9
+}
+
+/* 131 */
+{
+    "_id" : "rainfall130",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1961.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 280.6
+}
+
+/* 132 */
+{
+    "_id" : "rainfall131",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1961.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 144.5
+}
+
+/* 133 */
+{
+    "_id" : "rainfall132",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1962.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 152.4
+}
+
+/* 134 */
+{
+    "_id" : "rainfall133",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1962.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 14.9
+}
+
+/* 135 */
+{
+    "_id" : "rainfall134",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1962.0,
+    "MONTH" : "MARCH",
+    "DATA" : 17.3
+}
+
+/* 136 */
+{
+    "_id" : "rainfall135",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1962.0,
+    "MONTH" : "APRIL",
+    "DATA" : 46.4
+}
+
+/* 137 */
+{
+    "_id" : "rainfall136",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1962.0,
+    "MONTH" : "MAY",
+    "DATA" : 310.4
+}
+
+/* 138 */
+{
+    "_id" : "rainfall137",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1962.0,
+    "MONTH" : "JUNE",
+    "DATA" : 367.7
+}
+
+/* 139 */
+{
+    "_id" : "rainfall138",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1962.0,
+    "MONTH" : "JULY",
+    "DATA" : 409.1
+}
+
+/* 140 */
+{
+    "_id" : "rainfall139",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1962.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 420.6
+}
+
+/* 141 */
+{
+    "_id" : "rainfall140",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1962.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 474.5
+}
+
+/* 142 */
+{
+    "_id" : "rainfall141",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1962.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 259.8
+}
+
+/* 143 */
+{
+    "_id" : "rainfall142",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1962.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 101.7
+}
+
+/* 144 */
+{
+    "_id" : "rainfall143",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1962.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 384.9
+}
+
+/* 145 */
+{
+    "_id" : "rainfall144",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1963.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 79.9
+}
+
+/* 146 */
+{
+    "_id" : "rainfall145",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1963.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 26.8
+}
+
+/* 147 */
+{
+    "_id" : "rainfall146",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1963.0,
+    "MONTH" : "MARCH",
+    "DATA" : 7.4
+}
+
+/* 148 */
+{
+    "_id" : "rainfall147",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1963.0,
+    "MONTH" : "APRIL",
+    "DATA" : 69.5
+}
+
+/* 149 */
+{
+    "_id" : "rainfall148",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1963.0,
+    "MONTH" : "MAY",
+    "DATA" : 259.9
+}
+
+/* 150 */
+{
+    "_id" : "rainfall149",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1963.0,
+    "MONTH" : "JUNE",
+    "DATA" : 434.7
+}
+
+/* 151 */
+{
+    "_id" : "rainfall150",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1963.0,
+    "MONTH" : "JULY",
+    "DATA" : 303.3
+}
+
+/* 152 */
+{
+    "_id" : "rainfall151",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1963.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 601.2
+}
+
+/* 153 */
+{
+    "_id" : "rainfall152",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1963.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 614.3
+}
+
+/* 154 */
+{
+    "_id" : "rainfall153",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1963.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 295.5
+}
+
+/* 155 */
+{
+    "_id" : "rainfall154",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1963.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 109.3
+}
+
+/* 156 */
+{
+    "_id" : "rainfall155",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1963.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 179.9
+}
+
+/* 157 */
+{
+    "_id" : "rainfall156",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1964.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 65.5
+}
+
+/* 158 */
+{
+    "_id" : "rainfall157",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1964.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 21.9
+}
+
+/* 159 */
+{
+    "_id" : "rainfall158",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1964.0,
+    "MONTH" : "MARCH",
+    "DATA" : 3.1
+}
+
+/* 160 */
+{
+    "_id" : "rainfall159",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1964.0,
+    "MONTH" : "APRIL",
+    "DATA" : 18.1
+}
+
+/* 161 */
+{
+    "_id" : "rainfall160",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1964.0,
+    "MONTH" : "MAY",
+    "DATA" : 530.6
+}
+
+/* 162 */
+{
+    "_id" : "rainfall161",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1964.0,
+    "MONTH" : "JUNE",
+    "DATA" : 465.3
+}
+
+/* 163 */
+{
+    "_id" : "rainfall162",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1964.0,
+    "MONTH" : "JULY",
+    "DATA" : 287.3
+}
+
+/* 164 */
+{
+    "_id" : "rainfall163",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1964.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 472.1
+}
+
+/* 165 */
+{
+    "_id" : "rainfall164",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1964.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 521.2
+}
+
+/* 166 */
+{
+    "_id" : "rainfall165",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1964.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 218.9
+}
+
+/* 167 */
+{
+    "_id" : "rainfall166",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1964.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 349.2
+}
+
+/* 168 */
+{
+    "_id" : "rainfall167",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1964.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 101.6
+}
+
+/* 169 */
+{
+    "_id" : "rainfall168",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1965.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 11.8
+}
+
+/* 170 */
+{
+    "_id" : "rainfall169",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1965.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 30.4
+}
+
+/* 171 */
+{
+    "_id" : "rainfall170",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1965.0,
+    "MONTH" : "MARCH",
+    "DATA" : 25.3
+}
+
+/* 172 */
+{
+    "_id" : "rainfall171",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1965.0,
+    "MONTH" : "APRIL",
+    "DATA" : 51.0
+}
+
+/* 173 */
+{
+    "_id" : "rainfall172",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1965.0,
+    "MONTH" : "MAY",
+    "DATA" : 292.3
+}
+
+/* 174 */
+{
+    "_id" : "rainfall173",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1965.0,
+    "MONTH" : "JUNE",
+    "DATA" : 408.8
+}
+
+/* 175 */
+{
+    "_id" : "rainfall174",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1965.0,
+    "MONTH" : "JULY",
+    "DATA" : 392.1
+}
+
+/* 176 */
+{
+    "_id" : "rainfall175",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1965.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 396.6
+}
+
+/* 177 */
+{
+    "_id" : "rainfall176",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1965.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 576.8
+}
+
+/* 178 */
+{
+    "_id" : "rainfall177",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1965.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 290.5
+}
+
+/* 179 */
+{
+    "_id" : "rainfall178",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1965.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 187.9
+}
+
+/* 180 */
+{
+    "_id" : "rainfall179",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1965.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 500.4
+}
+
+/* 181 */
+{
+    "_id" : "rainfall180",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1966.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 79.8
+}
+
+/* 182 */
+{
+    "_id" : "rainfall181",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1966.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 4.2
+}
+
+/* 183 */
+{
+    "_id" : "rainfall182",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1966.0,
+    "MONTH" : "MARCH",
+    "DATA" : 12.0
+}
+
+/* 184 */
+{
+    "_id" : "rainfall183",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1966.0,
+    "MONTH" : "APRIL",
+    "DATA" : 38.7
+}
+
+/* 185 */
+{
+    "_id" : "rainfall184",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1966.0,
+    "MONTH" : "MAY",
+    "DATA" : 376.9
+}
+
+/* 186 */
+{
+    "_id" : "rainfall185",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1966.0,
+    "MONTH" : "JUNE",
+    "DATA" : 148.8
+}
+
+/* 187 */
+{
+    "_id" : "rainfall186",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1966.0,
+    "MONTH" : "JULY",
+    "DATA" : 433.5
+}
+
+/* 188 */
+{
+    "_id" : "rainfall187",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1966.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 335.6
+}
+
+/* 189 */
+{
+    "_id" : "rainfall188",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1966.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 454.1
+}
+
+/* 190 */
+{
+    "_id" : "rainfall189",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1966.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 171.9
+}
+
+/* 191 */
+{
+    "_id" : "rainfall190",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1966.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 333.8
+}
+
+/* 192 */
+{
+    "_id" : "rainfall191",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1966.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 311.9
+}
+
+/* 193 */
+{
+    "_id" : "rainfall192",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1967.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 164.6
+}
+
+/* 194 */
+{
+    "_id" : "rainfall193",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1967.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 21.6
+}
+
+/* 195 */
+{
+    "_id" : "rainfall194",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1967.0,
+    "MONTH" : "MARCH",
+    "DATA" : 30.0
+}
+
+/* 196 */
+{
+    "_id" : "rainfall195",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1967.0,
+    "MONTH" : "APRIL",
+    "DATA" : 63.4
+}
+
+/* 197 */
+{
+    "_id" : "rainfall196",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1967.0,
+    "MONTH" : "MAY",
+    "DATA" : 516.4
+}
+
+/* 198 */
+{
+    "_id" : "rainfall197",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1967.0,
+    "MONTH" : "JUNE",
+    "DATA" : 340.8
+}
+
+/* 199 */
+{
+    "_id" : "rainfall198",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1967.0,
+    "MONTH" : "JULY",
+    "DATA" : 537.8
+}
+
+/* 200 */
+{
+    "_id" : "rainfall199",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1967.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 614.3
+}
+
+/* 201 */
+{
+    "_id" : "rainfall200",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1967.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 303.5
+}
+
+/* 202 */
+{
+    "_id" : "rainfall201",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1967.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 427.5
+}
+
+/* 203 */
+{
+    "_id" : "rainfall202",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1967.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 99.7
+}
+
+/* 204 */
+{
+    "_id" : "rainfall203",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1967.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 97.0
+}
+
+/* 205 */
+{
+    "_id" : "rainfall204",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1968.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 22.1
+}
+
+/* 206 */
+{
+    "_id" : "rainfall205",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1968.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 1.3
+}
+
+/* 207 */
+{
+    "_id" : "rainfall206",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1968.0,
+    "MONTH" : "MARCH",
+    "DATA" : 4.2
+}
+
+/* 208 */
+{
+    "_id" : "rainfall207",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1968.0,
+    "MONTH" : "APRIL",
+    "DATA" : 81.5
+}
+
+/* 209 */
+{
+    "_id" : "rainfall208",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1968.0,
+    "MONTH" : "MAY",
+    "DATA" : 297.6
+}
+
+/* 210 */
+{
+    "_id" : "rainfall209",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1968.0,
+    "MONTH" : "JUNE",
+    "DATA" : 545.2
+}
+
+/* 211 */
+{
+    "_id" : "rainfall210",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1968.0,
+    "MONTH" : "JULY",
+    "DATA" : 519.3
+}
+
+/* 212 */
+{
+    "_id" : "rainfall211",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1968.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 242.0
+}
+
+/* 213 */
+{
+    "_id" : "rainfall212",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1968.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 496.8
+}
+
+/* 214 */
+{
+    "_id" : "rainfall213",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1968.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 281.6
+}
+
+/* 215 */
+{
+    "_id" : "rainfall214",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1968.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 152.0
+}
+
+/* 216 */
+{
+    "_id" : "rainfall215",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1968.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 119.2
+}
+
+/* 217 */
+{
+    "_id" : "rainfall216",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1969.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 106.3
+}
+
+/* 218 */
+{
+    "_id" : "rainfall217",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1969.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 64.7
+}
+
+/* 219 */
+{
+    "_id" : "rainfall218",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1969.0,
+    "MONTH" : "MARCH",
+    "DATA" : 14.6
+}
+
+/* 220 */
+{
+    "_id" : "rainfall219",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1969.0,
+    "MONTH" : "APRIL",
+    "DATA" : 20.8
+}
+
+/* 221 */
+{
+    "_id" : "rainfall220",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1969.0,
+    "MONTH" : "MAY",
+    "DATA" : 317.3
+}
+
+/* 222 */
+{
+    "_id" : "rainfall221",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1969.0,
+    "MONTH" : "JUNE",
+    "DATA" : 422.8
+}
+
+/* 223 */
+{
+    "_id" : "rainfall222",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1969.0,
+    "MONTH" : "JULY",
+    "DATA" : 345.2
+}
+
+/* 224 */
+{
+    "_id" : "rainfall223",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1969.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 281.4
+}
+
+/* 225 */
+{
+    "_id" : "rainfall224",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1969.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 489.8
+}
+
+/* 226 */
+{
+    "_id" : "rainfall225",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1969.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 146.8
+}
+
+/* 227 */
+{
+    "_id" : "rainfall226",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1969.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 343.7
+}
+
+/* 228 */
+{
+    "_id" : "rainfall227",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1969.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 65.8
+}
+
+/* 229 */
+{
+    "_id" : "rainfall228",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1970.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 72.2
+}
+
+/* 230 */
+{
+    "_id" : "rainfall229",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1970.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 34.0
+}
+
+/* 231 */
+{
+    "_id" : "rainfall230",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1970.0,
+    "MONTH" : "MARCH",
+    "DATA" : 7.8
+}
+
+/* 232 */
+{
+    "_id" : "rainfall231",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1970.0,
+    "MONTH" : "APRIL",
+    "DATA" : 58.2
+}
+
+/* 233 */
+{
+    "_id" : "rainfall232",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1970.0,
+    "MONTH" : "MAY",
+    "DATA" : 422.7
+}
+
+/* 234 */
+{
+    "_id" : "rainfall233",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1970.0,
+    "MONTH" : "JUNE",
+    "DATA" : 407.3
+}
+
+/* 235 */
+{
+    "_id" : "rainfall234",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1970.0,
+    "MONTH" : "JULY",
+    "DATA" : 564.6
+}
+
+/* 236 */
+{
+    "_id" : "rainfall235",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1970.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 342.9
+}
+
+/* 237 */
+{
+    "_id" : "rainfall236",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1970.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 423.5
+}
+
+/* 238 */
+{
+    "_id" : "rainfall237",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1970.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 386.6
+}
+
+/* 239 */
+{
+    "_id" : "rainfall238",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1970.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 418.4
+}
+
+/* 240 */
+{
+    "_id" : "rainfall239",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1970.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 232.7
+}
+
+/* 241 */
+{
+    "_id" : "rainfall240",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1971.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 41.5
+}
+
+/* 242 */
+{
+    "_id" : "rainfall241",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1971.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 32.8
+}
+
+/* 243 */
+{
+    "_id" : "rainfall242",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1971.0,
+    "MONTH" : "MARCH",
+    "DATA" : 37.7
+}
+
+/* 244 */
+{
+    "_id" : "rainfall243",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1971.0,
+    "MONTH" : "APRIL",
+    "DATA" : 35.3
+}
+
+/* 245 */
+{
+    "_id" : "rainfall244",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1971.0,
+    "MONTH" : "MAY",
+    "DATA" : 398.0
+}
+
+/* 246 */
+{
+    "_id" : "rainfall245",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1971.0,
+    "MONTH" : "JUNE",
+    "DATA" : 394.6
+}
+
+/* 247 */
+{
+    "_id" : "rainfall246",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1971.0,
+    "MONTH" : "JULY",
+    "DATA" : 421.1
+}
+
+/* 248 */
+{
+    "_id" : "rainfall247",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1971.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 327.9
+}
+
+/* 249 */
+{
+    "_id" : "rainfall248",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1971.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 470.2
+}
+
+/* 250 */
+{
+    "_id" : "rainfall249",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1971.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 505.3
+}
+
+/* 251 */
+{
+    "_id" : "rainfall250",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1971.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 178.4
+}
+
+/* 252 */
+{
+    "_id" : "rainfall251",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1971.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 155.9
+}
+
+/* 253 */
+{
+    "_id" : "rainfall252",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1972.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 13.7
+}
+
+/* 254 */
+{
+    "_id" : "rainfall253",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1972.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 1.7
+}
+
+/* 255 */
+{
+    "_id" : "rainfall254",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1972.0,
+    "MONTH" : "MARCH",
+    "DATA" : 7.5
+}
+
+/* 256 */
+{
+    "_id" : "rainfall255",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1972.0,
+    "MONTH" : "APRIL",
+    "DATA" : 178.3
+}
+
+/* 257 */
+{
+    "_id" : "rainfall256",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1972.0,
+    "MONTH" : "MAY",
+    "DATA" : 420.2
+}
+
+/* 258 */
+{
+    "_id" : "rainfall257",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1972.0,
+    "MONTH" : "JUNE",
+    "DATA" : 470.0
+}
+
+/* 259 */
+{
+    "_id" : "rainfall258",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1972.0,
+    "MONTH" : "JULY",
+    "DATA" : 544.6
+}
+
+/* 260 */
+{
+    "_id" : "rainfall259",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1972.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 384.9
+}
+
+/* 261 */
+{
+    "_id" : "rainfall260",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1972.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 444.5
+}
+
+/* 262 */
+{
+    "_id" : "rainfall261",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1972.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 263.8
+}
+
+/* 263 */
+{
+    "_id" : "rainfall262",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1972.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 413.9
+}
+
+/* 264 */
+{
+    "_id" : "rainfall263",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1972.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 180.0
+}
+
+/* 265 */
+{
+    "_id" : "rainfall264",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1973.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 18.1
+}
+
+/* 266 */
+{
+    "_id" : "rainfall265",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1973.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 20.3
+}
+
+/* 267 */
+{
+    "_id" : "rainfall266",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1973.0,
+    "MONTH" : "MARCH",
+    "DATA" : 30.5
+}
+
+/* 268 */
+{
+    "_id" : "rainfall267",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1973.0,
+    "MONTH" : "APRIL",
+    "DATA" : 29.6
+}
+
+/* 269 */
+{
+    "_id" : "rainfall268",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1973.0,
+    "MONTH" : "MAY",
+    "DATA" : 418.6
+}
+
+/* 270 */
+{
+    "_id" : "rainfall269",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1973.0,
+    "MONTH" : "JUNE",
+    "DATA" : 488.6
+}
+
+/* 271 */
+{
+    "_id" : "rainfall270",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1973.0,
+    "MONTH" : "JULY",
+    "DATA" : 371.4
+}
+
+/* 272 */
+{
+    "_id" : "rainfall271",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1973.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 370.3
+}
+
+/* 273 */
+{
+    "_id" : "rainfall272",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1973.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 357.5
+}
+
+/* 274 */
+{
+    "_id" : "rainfall273",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1973.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 247.2
+}
+
+/* 275 */
+{
+    "_id" : "rainfall274",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1973.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 349.8
+}
+
+/* 276 */
+{
+    "_id" : "rainfall275",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1973.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 289.1
+}
+
+/* 277 */
+{
+    "_id" : "rainfall276",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1974.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 22.2
+}
+
+/* 278 */
+{
+    "_id" : "rainfall277",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1974.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 43.9
+}
+
+/* 279 */
+{
+    "_id" : "rainfall278",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1974.0,
+    "MONTH" : "MARCH",
+    "DATA" : 17.2
+}
+
+/* 280 */
+{
+    "_id" : "rainfall279",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1974.0,
+    "MONTH" : "APRIL",
+    "DATA" : 301.4
+}
+
+/* 281 */
+{
+    "_id" : "rainfall280",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1974.0,
+    "MONTH" : "MAY",
+    "DATA" : 353.3
+}
+
+/* 282 */
+{
+    "_id" : "rainfall281",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1974.0,
+    "MONTH" : "JUNE",
+    "DATA" : 343.8
+}
+
+/* 283 */
+{
+    "_id" : "rainfall282",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1974.0,
+    "MONTH" : "JULY",
+    "DATA" : 257.1
+}
+
+/* 284 */
+{
+    "_id" : "rainfall283",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1974.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 456.2
+}
+
+/* 285 */
+{
+    "_id" : "rainfall284",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1974.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 321.6
+}
+
+/* 286 */
+{
+    "_id" : "rainfall285",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1974.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 398.4
+}
+
+/* 287 */
+{
+    "_id" : "rainfall286",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1974.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 372.2
+}
+
+/* 288 */
+{
+    "_id" : "rainfall287",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1974.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 74.8
+}
+
+/* 289 */
+{
+    "_id" : "rainfall288",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1975.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 276.9
+}
+
+/* 290 */
+{
+    "_id" : "rainfall289",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1975.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 27.5
+}
+
+/* 291 */
+{
+    "_id" : "rainfall290",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1975.0,
+    "MONTH" : "MARCH",
+    "DATA" : 8.0
+}
+
+/* 292 */
+{
+    "_id" : "rainfall291",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1975.0,
+    "MONTH" : "APRIL",
+    "DATA" : 24.2
+}
+
+/* 293 */
+{
+    "_id" : "rainfall292",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1975.0,
+    "MONTH" : "MAY",
+    "DATA" : 362.9
+}
+
+/* 294 */
+{
+    "_id" : "rainfall293",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1975.0,
+    "MONTH" : "JUNE",
+    "DATA" : 706.3
+}
+
+/* 295 */
+{
+    "_id" : "rainfall294",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1975.0,
+    "MONTH" : "JULY",
+    "DATA" : 173.6
+}
+
+/* 296 */
+{
+    "_id" : "rainfall295",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1975.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 357.4
+}
+
+/* 297 */
+{
+    "_id" : "rainfall296",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1975.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 351.8
+}
+
+/* 298 */
+{
+    "_id" : "rainfall297",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1975.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 373.6
+}
+
+/* 299 */
+{
+    "_id" : "rainfall298",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1975.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 323.7
+}
+
+/* 300 */
+{
+    "_id" : "rainfall299",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1975.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 99.7
+}
+
+/* 301 */
+{
+    "_id" : "rainfall300",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1976.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 20.9
+}
+
+/* 302 */
+{
+    "_id" : "rainfall301",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1976.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 9.7
+}
+
+/* 303 */
+{
+    "_id" : "rainfall302",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1976.0,
+    "MONTH" : "MARCH",
+    "DATA" : 0.6
+}
+
+/* 304 */
+{
+    "_id" : "rainfall303",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1976.0,
+    "MONTH" : "APRIL",
+    "DATA" : 161.6
+}
+
+/* 305 */
+{
+    "_id" : "rainfall304",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1976.0,
+    "MONTH" : "MAY",
+    "DATA" : 551.4
+}
+
+/* 306 */
+{
+    "_id" : "rainfall305",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1976.0,
+    "MONTH" : "JUNE",
+    "DATA" : 441.4
+}
+
+/* 307 */
+{
+    "_id" : "rainfall306",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1976.0,
+    "MONTH" : "JULY",
+    "DATA" : 382.1
+}
+
+/* 308 */
+{
+    "_id" : "rainfall307",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1976.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 487.7
+}
+
+/* 309 */
+{
+    "_id" : "rainfall308",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1976.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 387.0
+}
+
+/* 310 */
+{
+    "_id" : "rainfall309",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1976.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 166.8
+}
+
+/* 311 */
+{
+    "_id" : "rainfall310",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1976.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 307.2
+}
+
+/* 312 */
+{
+    "_id" : "rainfall311",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1976.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 359.6
+}
+
+/* 313 */
+{
+    "_id" : "rainfall312",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1977.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 79.7
+}
+
+/* 314 */
+{
+    "_id" : "rainfall313",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1977.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 43.2
+}
+
+/* 315 */
+{
+    "_id" : "rainfall314",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1977.0,
+    "MONTH" : "MARCH",
+    "DATA" : 6.1
+}
+
+/* 316 */
+{
+    "_id" : "rainfall315",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1977.0,
+    "MONTH" : "APRIL",
+    "DATA" : 6.9
+}
+
+/* 317 */
+{
+    "_id" : "rainfall316",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1977.0,
+    "MONTH" : "MAY",
+    "DATA" : 275.3
+}
+
+/* 318 */
+{
+    "_id" : "rainfall317",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1977.0,
+    "MONTH" : "JUNE",
+    "DATA" : 339.3
+}
+
+/* 319 */
+{
+    "_id" : "rainfall318",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1977.0,
+    "MONTH" : "JULY",
+    "DATA" : 341.1
+}
+
+/* 320 */
+{
+    "_id" : "rainfall319",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1977.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 345.5
+}
+
+/* 321 */
+{
+    "_id" : "rainfall320",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1977.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 467.1
+}
+
+/* 322 */
+{
+    "_id" : "rainfall321",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1977.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 263.6
+}
+
+/* 323 */
+{
+    "_id" : "rainfall322",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1977.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 153.3
+}
+
+/* 324 */
+{
+    "_id" : "rainfall323",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1977.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 67.1
+}
+
+/* 325 */
+{
+    "_id" : "rainfall324",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1978.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 109.6
+}
+
+/* 326 */
+{
+    "_id" : "rainfall325",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1978.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 29.3
+}
+
+/* 327 */
+{
+    "_id" : "rainfall326",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1978.0,
+    "MONTH" : "MARCH",
+    "DATA" : 18.9
+}
+
+/* 328 */
+{
+    "_id" : "rainfall327",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1978.0,
+    "MONTH" : "APRIL",
+    "DATA" : 63.4
+}
+
+/* 329 */
+{
+    "_id" : "rainfall328",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1978.0,
+    "MONTH" : "MAY",
+    "DATA" : 343.6
+}
+
+/* 330 */
+{
+    "_id" : "rainfall329",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1978.0,
+    "MONTH" : "JUNE",
+    "DATA" : 462.2
+}
+
+/* 331 */
+{
+    "_id" : "rainfall330",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1978.0,
+    "MONTH" : "JULY",
+    "DATA" : 656.6
+}
+
+/* 332 */
+{
+    "_id" : "rainfall331",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1978.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 346.3
+}
+
+/* 333 */
+{
+    "_id" : "rainfall332",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1978.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 310.8
+}
+
+/* 334 */
+{
+    "_id" : "rainfall333",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1978.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 243.7
+}
+
+/* 335 */
+{
+    "_id" : "rainfall334",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1978.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 83.4
+}
+
+/* 336 */
+{
+    "_id" : "rainfall335",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1978.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 44.6
+}
+
+/* 337 */
+{
+    "_id" : "rainfall336",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1979.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 35.5
+}
+
+/* 338 */
+{
+    "_id" : "rainfall337",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1979.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 9.4
+}
+
+/* 339 */
+{
+    "_id" : "rainfall338",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1979.0,
+    "MONTH" : "MARCH",
+    "DATA" : 3.9
+}
+
+/* 340 */
+{
+    "_id" : "rainfall339",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1979.0,
+    "MONTH" : "APRIL",
+    "DATA" : 64.8
+}
+
+/* 341 */
+{
+    "_id" : "rainfall340",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1979.0,
+    "MONTH" : "MAY",
+    "DATA" : 146.3
+}
+
+/* 342 */
+{
+    "_id" : "rainfall341",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1979.0,
+    "MONTH" : "JUNE",
+    "DATA" : 282.8
+}
+
+/* 343 */
+{
+    "_id" : "rainfall342",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1979.0,
+    "MONTH" : "JULY",
+    "DATA" : 455.9
+}
+
+/* 344 */
+{
+    "_id" : "rainfall343",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1979.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 173.6
+}
+
+/* 345 */
+{
+    "_id" : "rainfall344",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1979.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 330.2
+}
+
+/* 346 */
+{
+    "_id" : "rainfall345",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1979.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 163.5
+}
+
+/* 347 */
+{
+    "_id" : "rainfall346",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1979.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 169.8
+}
+
+/* 348 */
+{
+    "_id" : "rainfall347",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1979.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 13.6
+}
+
+/* 349 */
+{
+    "_id" : "rainfall348",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1980.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 5.5
+}
+
+/* 350 */
+{
+    "_id" : "rainfall349",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1980.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 0.8
+}
+
+/* 351 */
+{
+    "_id" : "rainfall350",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1980.0,
+    "MONTH" : "MARCH",
+    "DATA" : 9.2
+}
+
+/* 352 */
+{
+    "_id" : "rainfall351",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1980.0,
+    "MONTH" : "APRIL",
+    "DATA" : 38.8
+}
+
+/* 353 */
+{
+    "_id" : "rainfall352",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1980.0,
+    "MONTH" : "MAY",
+    "DATA" : 728.4
+}
+
+/* 354 */
+{
+    "_id" : "rainfall353",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1980.0,
+    "MONTH" : "JUNE",
+    "DATA" : 604.2
+}
+
+/* 355 */
+{
+    "_id" : "rainfall354",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1980.0,
+    "MONTH" : "JULY",
+    "DATA" : 575.7
+}
+
+/* 356 */
+{
+    "_id" : "rainfall355",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1980.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 494.4
+}
+
+/* 357 */
+{
+    "_id" : "rainfall356",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1980.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 271.9
+}
+
+/* 358 */
+{
+    "_id" : "rainfall357",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1980.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 252.0
+}
+
+/* 359 */
+{
+    "_id" : "rainfall358",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1980.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 143.7
+}
+
+/* 360 */
+{
+    "_id" : "rainfall359",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1980.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 500.7
+}
+
+/* 361 */
+{
+    "_id" : "rainfall360",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1981.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 11.1
+}
+
+/* 362 */
+{
+    "_id" : "rainfall361",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1981.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 27.8
+}
+
+/* 363 */
+{
+    "_id" : "rainfall362",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1981.0,
+    "MONTH" : "MARCH",
+    "DATA" : 1.7
+}
+
+/* 364 */
+{
+    "_id" : "rainfall363",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1981.0,
+    "MONTH" : "APRIL",
+    "DATA" : 94.1
+}
+
+/* 365 */
+{
+    "_id" : "rainfall364",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1981.0,
+    "MONTH" : "MAY",
+    "DATA" : 270.8
+}
+
+/* 366 */
+{
+    "_id" : "rainfall365",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1981.0,
+    "MONTH" : "JUNE",
+    "DATA" : 600.6
+}
+
+/* 367 */
+{
+    "_id" : "rainfall366",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1981.0,
+    "MONTH" : "JULY",
+    "DATA" : 344.1
+}
+
+/* 368 */
+{
+    "_id" : "rainfall367",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1981.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 510.7
+}
+
+/* 369 */
+{
+    "_id" : "rainfall368",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1981.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 452.6
+}
+
+/* 370 */
+{
+    "_id" : "rainfall369",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1981.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 242.1
+}
+
+/* 371 */
+{
+    "_id" : "rainfall370",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1981.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 348.4
+}
+
+/* 372 */
+{
+    "_id" : "rainfall371",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1981.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 170.7
+}
+
+/* 373 */
+{
+    "_id" : "rainfall372",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1982.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 8.8
+}
+
+/* 374 */
+{
+    "_id" : "rainfall373",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1982.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 2.8
+}
+
+/* 375 */
+{
+    "_id" : "rainfall374",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1982.0,
+    "MONTH" : "MARCH",
+    "DATA" : 6.6
+}
+
+/* 376 */
+{
+    "_id" : "rainfall375",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1982.0,
+    "MONTH" : "APRIL",
+    "DATA" : 97.5
+}
+
+/* 377 */
+{
+    "_id" : "rainfall376",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1982.0,
+    "MONTH" : "MAY",
+    "DATA" : 229.2
+}
+
+/* 378 */
+{
+    "_id" : "rainfall377",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1982.0,
+    "MONTH" : "JUNE",
+    "DATA" : 448.7
+}
+
+/* 379 */
+{
+    "_id" : "rainfall378",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1982.0,
+    "MONTH" : "JULY",
+    "DATA" : 410.5
+}
+
+/* 380 */
+{
+    "_id" : "rainfall379",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1982.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 347.6
+}
+
+/* 381 */
+{
+    "_id" : "rainfall380",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1982.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 369.0
+}
+
+/* 382 */
+{
+    "_id" : "rainfall381",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1982.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 164.5
+}
+
+/* 383 */
+{
+    "_id" : "rainfall382",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1982.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 238.8
+}
+
+/* 384 */
+{
+    "_id" : "rainfall383",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1982.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 60.5
+}
+
+/* 385 */
+{
+    "_id" : "rainfall384",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1983.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 22.1
+}
+
+/* 386 */
+{
+    "_id" : "rainfall385",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1983.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 0.0
+}
+
+/* 387 */
+{
+    "_id" : "rainfall386",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1983.0,
+    "MONTH" : "MARCH",
+    "DATA" : 3.1
+}
+
+/* 388 */
+{
+    "_id" : "rainfall387",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1983.0,
+    "MONTH" : "APRIL",
+    "DATA" : 9.1
+}
+
+/* 389 */
+{
+    "_id" : "rainfall388",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1983.0,
+    "MONTH" : "MAY",
+    "DATA" : 240.8
+}
+
+/* 390 */
+{
+    "_id" : "rainfall389",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1983.0,
+    "MONTH" : "JUNE",
+    "DATA" : 424.3
+}
+
+/* 391 */
+{
+    "_id" : "rainfall390",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1983.0,
+    "MONTH" : "JULY",
+    "DATA" : 468.9
+}
+
+/* 392 */
+{
+    "_id" : "rainfall391",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1983.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 493.8
+}
+
+/* 393 */
+{
+    "_id" : "rainfall392",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1983.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 505.5
+}
+
+/* 394 */
+{
+    "_id" : "rainfall393",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1983.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 275.8
+}
+
+/* 395 */
+{
+    "_id" : "rainfall394",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1983.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 261.0
+}
+
+/* 396 */
+{
+    "_id" : "rainfall395",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1983.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 88.1
+}
+
+/* 397 */
+{
+    "_id" : "rainfall396",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1984.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 69.4
+}
+
+/* 398 */
+{
+    "_id" : "rainfall397",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1984.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 173.8
+}
+
+/* 399 */
+{
+    "_id" : "rainfall398",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1984.0,
+    "MONTH" : "MARCH",
+    "DATA" : 26.3
+}
+
+/* 400 */
+{
+    "_id" : "rainfall399",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1984.0,
+    "MONTH" : "APRIL",
+    "DATA" : 156.6
+}
+
+/* 401 */
+{
+    "_id" : "rainfall400",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1984.0,
+    "MONTH" : "MAY",
+    "DATA" : 162.3
+}
+
+/* 402 */
+{
+    "_id" : "rainfall401",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1984.0,
+    "MONTH" : "JUNE",
+    "DATA" : 424.9
+}
+
+/* 403 */
+{
+    "_id" : "rainfall402",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1984.0,
+    "MONTH" : "JULY",
+    "DATA" : 446.4
+}
+
+/* 404 */
+{
+    "_id" : "rainfall403",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1984.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 125.8
+}
+
+/* 405 */
+{
+    "_id" : "rainfall404",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1984.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 283.6
+}
+
+/* 406 */
+{
+    "_id" : "rainfall405",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1984.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 347.1
+}
+
+/* 407 */
+{
+    "_id" : "rainfall406",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1984.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 158.9
+}
+
+/* 408 */
+{
+    "_id" : "rainfall407",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1984.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 445.2
+}
+
+/* 409 */
+{
+    "_id" : "rainfall408",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1985.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 12.0
+}
+
+/* 410 */
+{
+    "_id" : "rainfall409",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1985.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 19.2
+}
+
+/* 411 */
+{
+    "_id" : "rainfall410",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1985.0,
+    "MONTH" : "MARCH",
+    "DATA" : 24.1
+}
+
+/* 412 */
+{
+    "_id" : "rainfall411",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1985.0,
+    "MONTH" : "APRIL",
+    "DATA" : 55.0
+}
+
+/* 413 */
+{
+    "_id" : "rainfall412",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1985.0,
+    "MONTH" : "MAY",
+    "DATA" : 278.1
+}
+
+/* 414 */
+{
+    "_id" : "rainfall413",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1985.0,
+    "MONTH" : "JUNE",
+    "DATA" : 588.4
+}
+
+/* 415 */
+{
+    "_id" : "rainfall414",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1985.0,
+    "MONTH" : "JULY",
+    "DATA" : 230.9
+}
+
+/* 416 */
+{
+    "_id" : "rainfall415",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1985.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 375.2
+}
+
+/* 417 */
+{
+    "_id" : "rainfall416",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1985.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 362.5
+}
+
+/* 418 */
+{
+    "_id" : "rainfall417",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1985.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 358.9
+}
+
+/* 419 */
+{
+    "_id" : "rainfall418",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1985.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 232.1
+}
+
+/* 420 */
+{
+    "_id" : "rainfall419",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1985.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 94.4
+}
+
+/* 421 */
+{
+    "_id" : "rainfall420",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1986.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 14.8
+}
+
+/* 422 */
+{
+    "_id" : "rainfall421",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1986.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 0.6
+}
+
+/* 423 */
+{
+    "_id" : "rainfall422",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1986.0,
+    "MONTH" : "MARCH",
+    "DATA" : 1.5
+}
+
+/* 424 */
+{
+    "_id" : "rainfall423",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1986.0,
+    "MONTH" : "APRIL",
+    "DATA" : 8.2
+}
+
+/* 425 */
+{
+    "_id" : "rainfall424",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1986.0,
+    "MONTH" : "MAY",
+    "DATA" : 302.6
+}
+
+/* 426 */
+{
+    "_id" : "rainfall425",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1986.0,
+    "MONTH" : "JUNE",
+    "DATA" : 312.2
+}
+
+/* 427 */
+{
+    "_id" : "rainfall426",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1986.0,
+    "MONTH" : "JULY",
+    "DATA" : 308.5
+}
+
+/* 428 */
+{
+    "_id" : "rainfall427",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1986.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 444.0
+}
+
+/* 429 */
+{
+    "_id" : "rainfall428",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1986.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 408.9
+}
+
+/* 430 */
+{
+    "_id" : "rainfall429",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1986.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 176.1
+}
+
+/* 431 */
+{
+    "_id" : "rainfall430",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1986.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 163.5
+}
+
+/* 432 */
+{
+    "_id" : "rainfall431",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1986.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 47.0
+}
+
+/* 433 */
+{
+    "_id" : "rainfall432",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1987.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 72.4
+}
+
+/* 434 */
+{
+    "_id" : "rainfall433",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1987.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 35.2
+}
+
+/* 435 */
+{
+    "_id" : "rainfall434",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1987.0,
+    "MONTH" : "MARCH",
+    "DATA" : 20.4
+}
+
+/* 436 */
+{
+    "_id" : "rainfall435",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1987.0,
+    "MONTH" : "APRIL",
+    "DATA" : 17.7
+}
+
+/* 437 */
+{
+    "_id" : "rainfall436",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1987.0,
+    "MONTH" : "MAY",
+    "DATA" : 162.9
+}
+
+/* 438 */
+{
+    "_id" : "rainfall437",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1987.0,
+    "MONTH" : "JUNE",
+    "DATA" : 343.7
+}
+
+/* 439 */
+{
+    "_id" : "rainfall438",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1987.0,
+    "MONTH" : "JULY",
+    "DATA" : 45.3
+}
+
+/* 440 */
+{
+    "_id" : "rainfall439",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1987.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 666.5
+}
+
+/* 441 */
+{
+    "_id" : "rainfall440",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1987.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 378.9
+}
+
+/* 442 */
+{
+    "_id" : "rainfall441",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1987.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 373.4
+}
+
+/* 443 */
+{
+    "_id" : "rainfall442",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1987.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 313.4
+}
+
+/* 444 */
+{
+    "_id" : "rainfall443",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1987.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 334.1
+}
+
+/* 445 */
+{
+    "_id" : "rainfall444",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1988.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 10.2
+}
+
+/* 446 */
+{
+    "_id" : "rainfall445",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1988.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 39.9
+}
+
+/* 447 */
+{
+    "_id" : "rainfall446",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1988.0,
+    "MONTH" : "MARCH",
+    "DATA" : 28.0
+}
+
+/* 448 */
+{
+    "_id" : "rainfall447",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1988.0,
+    "MONTH" : "APRIL",
+    "DATA" : 82.7
+}
+
+/* 449 */
+{
+    "_id" : "rainfall448",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1988.0,
+    "MONTH" : "MAY",
+    "DATA" : 427.5
+}
+
+/* 450 */
+{
+    "_id" : "rainfall449",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1988.0,
+    "MONTH" : "JUNE",
+    "DATA" : 357.4
+}
+
+/* 451 */
+{
+    "_id" : "rainfall450",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1988.0,
+    "MONTH" : "JULY",
+    "DATA" : 495.6
+}
+
+/* 452 */
+{
+    "_id" : "rainfall451",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1988.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 354.2
+}
+
+/* 453 */
+{
+    "_id" : "rainfall452",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1988.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 603.3
+}
+
+/* 454 */
+{
+    "_id" : "rainfall453",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1988.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 271.4
+}
+
+/* 455 */
+{
+    "_id" : "rainfall454",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1988.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 583.0
+}
+
+/* 456 */
+{
+    "_id" : "rainfall455",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1988.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 69.9
+}
+
+/* 457 */
+{
+    "_id" : "rainfall456",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1989.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 56.0
+}
+
+/* 458 */
+{
+    "_id" : "rainfall457",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1989.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 12.8
+}
+
+/* 459 */
+{
+    "_id" : "rainfall458",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1989.0,
+    "MONTH" : "MARCH",
+    "DATA" : 68.1
+}
+
+/* 460 */
+{
+    "_id" : "rainfall459",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1989.0,
+    "MONTH" : "APRIL",
+    "DATA" : 42.6
+}
+
+/* 461 */
+{
+    "_id" : "rainfall460",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1989.0,
+    "MONTH" : "MAY",
+    "DATA" : 379.3
+}
+
+/* 462 */
+{
+    "_id" : "rainfall461",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1989.0,
+    "MONTH" : "JUNE",
+    "DATA" : 414.9
+}
+
+/* 463 */
+{
+    "_id" : "rainfall462",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1989.0,
+    "MONTH" : "JULY",
+    "DATA" : 380.1
+}
+
+/* 464 */
+{
+    "_id" : "rainfall463",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1989.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 413.2
+}
+
+/* 465 */
+{
+    "_id" : "rainfall464",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1989.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 215.9
+}
+
+/* 466 */
+{
+    "_id" : "rainfall465",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1989.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 291.8
+}
+
+/* 467 */
+{
+    "_id" : "rainfall466",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1989.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 255.0
+}
+
+/* 468 */
+{
+    "_id" : "rainfall467",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1989.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 4.0
+}
+
+/* 469 */
+{
+    "_id" : "rainfall468",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1990.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 13.4
+}
+
+/* 470 */
+{
+    "_id" : "rainfall469",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1990.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 0.2
+}
+
+/* 471 */
+{
+    "_id" : "rainfall470",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1990.0,
+    "MONTH" : "MARCH",
+    "DATA" : 24.6
+}
+
+/* 472 */
+{
+    "_id" : "rainfall471",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1990.0,
+    "MONTH" : "APRIL",
+    "DATA" : 87.5
+}
+
+/* 473 */
+{
+    "_id" : "rainfall472",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1990.0,
+    "MONTH" : "MAY",
+    "DATA" : 424.6
+}
+
+/* 474 */
+{
+    "_id" : "rainfall473",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1990.0,
+    "MONTH" : "JUNE",
+    "DATA" : 291.0
+}
+
+/* 475 */
+{
+    "_id" : "rainfall474",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1990.0,
+    "MONTH" : "JULY",
+    "DATA" : 213.2
+}
+
+/* 476 */
+{
+    "_id" : "rainfall475",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1990.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 293.3
+}
+
+/* 477 */
+{
+    "_id" : "rainfall476",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1990.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 310.4
+}
+
+/* 478 */
+{
+    "_id" : "rainfall477",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1990.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 133.6
+}
+
+/* 479 */
+{
+    "_id" : "rainfall478",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1990.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 291.1
+}
+
+/* 480 */
+{
+    "_id" : "rainfall479",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1990.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 100.3
+}
+
+/* 481 */
+{
+    "_id" : "rainfall480",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1991.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 14.1
+}
+
+/* 482 */
+{
+    "_id" : "rainfall481",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1991.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 3.8
+}
+
+/* 483 */
+{
+    "_id" : "rainfall482",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1991.0,
+    "MONTH" : "MARCH",
+    "DATA" : 28.0
+}
+
+/* 484 */
+{
+    "_id" : "rainfall483",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1991.0,
+    "MONTH" : "APRIL",
+    "DATA" : 132.9
+}
+
+/* 485 */
+{
+    "_id" : "rainfall484",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1991.0,
+    "MONTH" : "MAY",
+    "DATA" : 191.3
+}
+
+/* 486 */
+{
+    "_id" : "rainfall485",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1991.0,
+    "MONTH" : "JUNE",
+    "DATA" : 165.7
+}
+
+/* 487 */
+{
+    "_id" : "rainfall486",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1991.0,
+    "MONTH" : "JULY",
+    "DATA" : 547.2
+}
+
+/* 488 */
+{
+    "_id" : "rainfall487",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1991.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 486.5
+}
+
+/* 489 */
+{
+    "_id" : "rainfall488",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1991.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 489.9
+}
+
+/* 490 */
+{
+    "_id" : "rainfall489",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1991.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 287.6
+}
+
+/* 491 */
+{
+    "_id" : "rainfall490",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1991.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 130.1
+}
+
+/* 492 */
+{
+    "_id" : "rainfall491",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1991.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 58.5
+}
+
+/* 493 */
+{
+    "_id" : "rainfall492",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1992.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 75.9
+}
+
+/* 494 */
+{
+    "_id" : "rainfall493",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1992.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 10.9
+}
+
+/* 495 */
+{
+    "_id" : "rainfall494",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1992.0,
+    "MONTH" : "MARCH",
+    "DATA" : 0.0
+}
+
+/* 496 */
+{
+    "_id" : "rainfall495",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1992.0,
+    "MONTH" : "APRIL",
+    "DATA" : 5.1
+}
+
+/* 497 */
+{
+    "_id" : "rainfall496",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1992.0,
+    "MONTH" : "MAY",
+    "DATA" : 241.7
+}
+
+/* 498 */
+{
+    "_id" : "rainfall497",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1992.0,
+    "MONTH" : "JUNE",
+    "DATA" : 392.0
+}
+
+/* 499 */
+{
+    "_id" : "rainfall498",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1992.0,
+    "MONTH" : "JULY",
+    "DATA" : 348.2
+}
+
+/* 500 */
+{
+    "_id" : "rainfall499",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1992.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 372.3
+}
+
+/* 501 */
+{
+    "_id" : "rainfall500",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1992.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 323.7
+}
+
+/* 502 */
+{
+    "_id" : "rainfall501",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1992.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 257.3
+}
+
+/* 503 */
+{
+    "_id" : "rainfall502",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1992.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 64.3
+}
+
+/* 504 */
+{
+    "_id" : "rainfall503",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1992.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 7.2
+}
+
+/* 505 */
+{
+    "_id" : "rainfall504",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1993.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 14.9
+}
+
+/* 506 */
+{
+    "_id" : "rainfall505",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1993.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 0.0
+}
+
+/* 507 */
+{
+    "_id" : "rainfall506",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1993.0,
+    "MONTH" : "MARCH",
+    "DATA" : 129.9
+}
+
+/* 508 */
+{
+    "_id" : "rainfall507",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1993.0,
+    "MONTH" : "APRIL",
+    "DATA" : 43.7
+}
+
+/* 509 */
+{
+    "_id" : "rainfall508",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1993.0,
+    "MONTH" : "MAY",
+    "DATA" : 181.4
+}
+
+/* 510 */
+{
+    "_id" : "rainfall509",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1993.0,
+    "MONTH" : "JUNE",
+    "DATA" : 257.1
+}
+
+/* 511 */
+{
+    "_id" : "rainfall510",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1993.0,
+    "MONTH" : "JULY",
+    "DATA" : 391.7
+}
+
+/* 512 */
+{
+    "_id" : "rainfall511",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1993.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 226.7
+}
+
+/* 513 */
+{
+    "_id" : "rainfall512",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1993.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 437.0
+}
+
+/* 514 */
+{
+    "_id" : "rainfall513",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1993.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 299.3
+}
+
+/* 515 */
+{
+    "_id" : "rainfall514",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1993.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 189.0
+}
+
+/* 516 */
+{
+    "_id" : "rainfall515",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1993.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 66.7
+}
+
+/* 517 */
+{
+    "_id" : "rainfall516",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1994.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 7.2
+}
+
+/* 518 */
+{
+    "_id" : "rainfall517",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1994.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 35.5
+}
+
+/* 519 */
+{
+    "_id" : "rainfall518",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1994.0,
+    "MONTH" : "MARCH",
+    "DATA" : 129.4
+}
+
+/* 520 */
+{
+    "_id" : "rainfall519",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1994.0,
+    "MONTH" : "APRIL",
+    "DATA" : 154.6
+}
+
+/* 521 */
+{
+    "_id" : "rainfall520",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1994.0,
+    "MONTH" : "MAY",
+    "DATA" : 403.2
+}
+
+/* 522 */
+{
+    "_id" : "rainfall521",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1994.0,
+    "MONTH" : "JUNE",
+    "DATA" : 386.3
+}
+
+/* 523 */
+{
+    "_id" : "rainfall522",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1994.0,
+    "MONTH" : "JULY",
+    "DATA" : 569.7
+}
+
+/* 524 */
+{
+    "_id" : "rainfall523",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1994.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 460.5
+}
+
+/* 525 */
+{
+    "_id" : "rainfall524",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1994.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 775.1
+}
+
+/* 526 */
+{
+    "_id" : "rainfall525",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1994.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 137.5
+}
+
+/* 527 */
+{
+    "_id" : "rainfall526",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1994.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 180.3
+}
+
+/* 528 */
+{
+    "_id" : "rainfall527",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1994.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 23.8
+}
+
+/* 529 */
+{
+    "_id" : "rainfall528",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1995.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 51.8
+}
+
+/* 530 */
+{
+    "_id" : "rainfall529",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1995.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 12.5
+}
+
+/* 531 */
+{
+    "_id" : "rainfall530",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1995.0,
+    "MONTH" : "MARCH",
+    "DATA" : 12.1
+}
+
+/* 532 */
+{
+    "_id" : "rainfall531",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1995.0,
+    "MONTH" : "APRIL",
+    "DATA" : 21.1
+}
+
+/* 533 */
+{
+    "_id" : "rainfall532",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1995.0,
+    "MONTH" : "MAY",
+    "DATA" : 314.8
+}
+
+/* 534 */
+{
+    "_id" : "rainfall533",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1995.0,
+    "MONTH" : "JUNE",
+    "DATA" : 450.4
+}
+
+/* 535 */
+{
+    "_id" : "rainfall534",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1995.0,
+    "MONTH" : "JULY",
+    "DATA" : 501.4
+}
+
+/* 536 */
+{
+    "_id" : "rainfall535",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1995.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 555.8
+}
+
+/* 537 */
+{
+    "_id" : "rainfall536",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1995.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 426.4
+}
+
+/* 538 */
+{
+    "_id" : "rainfall537",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1995.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 294.7
+}
+
+/* 539 */
+{
+    "_id" : "rainfall538",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1995.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 452.9
+}
+
+/* 540 */
+{
+    "_id" : "rainfall539",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1995.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 21.6
+}
+
+/* 541 */
+{
+    "_id" : "rainfall540",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1996.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 52.2
+}
+
+/* 542 */
+{
+    "_id" : "rainfall541",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1996.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 4.8
+}
+
+/* 543 */
+{
+    "_id" : "rainfall542",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1996.0,
+    "MONTH" : "MARCH",
+    "DATA" : 3.4
+}
+
+/* 544 */
+{
+    "_id" : "rainfall543",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1996.0,
+    "MONTH" : "APRIL",
+    "DATA" : 122.7
+}
+
+/* 545 */
+{
+    "_id" : "rainfall544",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1996.0,
+    "MONTH" : "MAY",
+    "DATA" : 298.0
+}
+
+/* 546 */
+{
+    "_id" : "rainfall545",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1996.0,
+    "MONTH" : "JUNE",
+    "DATA" : 559.2
+}
+
+/* 547 */
+{
+    "_id" : "rainfall546",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1996.0,
+    "MONTH" : "JULY",
+    "DATA" : 335.5
+}
+
+/* 548 */
+{
+    "_id" : "rainfall547",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1996.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 328.0
+}
+
+/* 549 */
+{
+    "_id" : "rainfall548",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1996.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 541.6
+}
+
+/* 550 */
+{
+    "_id" : "rainfall549",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1996.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 318.5
+}
+
+/* 551 */
+{
+    "_id" : "rainfall550",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1996.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 254.2
+}
+
+/* 552 */
+{
+    "_id" : "rainfall551",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1996.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 178.8
+}
+
+/* 553 */
+{
+    "_id" : "rainfall552",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1997.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 9.5
+}
+
+/* 554 */
+{
+    "_id" : "rainfall553",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1997.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 0.0
+}
+
+/* 555 */
+{
+    "_id" : "rainfall554",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1997.0,
+    "MONTH" : "MARCH",
+    "DATA" : 0.2
+}
+
+/* 556 */
+{
+    "_id" : "rainfall555",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1997.0,
+    "MONTH" : "APRIL",
+    "DATA" : 15.6
+}
+
+/* 557 */
+{
+    "_id" : "rainfall556",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1997.0,
+    "MONTH" : "MAY",
+    "DATA" : 281.1
+}
+
+/* 558 */
+{
+    "_id" : "rainfall557",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1997.0,
+    "MONTH" : "JUNE",
+    "DATA" : 199.5
+}
+
+/* 559 */
+{
+    "_id" : "rainfall558",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1997.0,
+    "MONTH" : "JULY",
+    "DATA" : 918.5
+}
+
+/* 560 */
+{
+    "_id" : "rainfall559",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1997.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 430.6
+}
+
+/* 561 */
+{
+    "_id" : "rainfall560",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1997.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 440.2
+}
+
+/* 562 */
+{
+    "_id" : "rainfall561",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1997.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 128.7
+}
+
+/* 563 */
+{
+    "_id" : "rainfall562",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1997.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 292.8
+}
+
+/* 564 */
+{
+    "_id" : "rainfall563",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1997.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 38.4
+}
+
+/* 565 */
+{
+    "_id" : "rainfall564",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1998.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 0.9
+}
+
+/* 566 */
+{
+    "_id" : "rainfall565",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1998.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 0.0
+}
+
+/* 567 */
+{
+    "_id" : "rainfall566",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1998.0,
+    "MONTH" : "MARCH",
+    "DATA" : 0.0
+}
+
+/* 568 */
+{
+    "_id" : "rainfall567",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1998.0,
+    "MONTH" : "APRIL",
+    "DATA" : 0.0
+}
+
+/* 569 */
+{
+    "_id" : "rainfall568",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1998.0,
+    "MONTH" : "MAY",
+    "DATA" : 348.9
+}
+
+/* 570 */
+{
+    "_id" : "rainfall569",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1998.0,
+    "MONTH" : "JUNE",
+    "DATA" : 600.0
+}
+
+/* 571 */
+{
+    "_id" : "rainfall570",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1998.0,
+    "MONTH" : "JULY",
+    "DATA" : 364.5
+}
+
+/* 572 */
+{
+    "_id" : "rainfall571",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1998.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 258.9
+}
+
+/* 573 */
+{
+    "_id" : "rainfall572",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1998.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 337.8
+}
+
+/* 574 */
+{
+    "_id" : "rainfall573",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1998.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 618.6
+}
+
+/* 575 */
+{
+    "_id" : "rainfall574",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1998.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 227.8
+}
+
+/* 576 */
+{
+    "_id" : "rainfall575",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1998.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 89.0
+}
+
+/* 577 */
+{
+    "_id" : "rainfall576",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1999.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 46.8
+}
+
+/* 578 */
+{
+    "_id" : "rainfall577",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1999.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 44.6
+}
+
+/* 579 */
+{
+    "_id" : "rainfall578",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1999.0,
+    "MONTH" : "MARCH",
+    "DATA" : 14.2
+}
+
+/* 580 */
+{
+    "_id" : "rainfall579",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1999.0,
+    "MONTH" : "APRIL",
+    "DATA" : 270.6
+}
+
+/* 581 */
+{
+    "_id" : "rainfall580",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1999.0,
+    "MONTH" : "MAY",
+    "DATA" : 257.4
+}
+
+/* 582 */
+{
+    "_id" : "rainfall581",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1999.0,
+    "MONTH" : "JUNE",
+    "DATA" : 295.0
+}
+
+/* 583 */
+{
+    "_id" : "rainfall582",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1999.0,
+    "MONTH" : "JULY",
+    "DATA" : 408.5
+}
+
+/* 584 */
+{
+    "_id" : "rainfall583",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1999.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 329.2
+}
+
+/* 585 */
+{
+    "_id" : "rainfall584",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1999.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 325.3
+}
+
+/* 586 */
+{
+    "_id" : "rainfall585",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1999.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 437.5
+}
+
+/* 587 */
+{
+    "_id" : "rainfall586",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1999.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 124.9
+}
+
+/* 588 */
+{
+    "_id" : "rainfall587",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 1999.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 145.7
+}
+
+/* 589 */
+{
+    "_id" : "rainfall588",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2000.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 53.0
+}
+
+/* 590 */
+{
+    "_id" : "rainfall589",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2000.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 59.0
+}
+
+/* 591 */
+{
+    "_id" : "rainfall590",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2000.0,
+    "MONTH" : "MARCH",
+    "DATA" : 171.3
+}
+
+/* 592 */
+{
+    "_id" : "rainfall591",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2000.0,
+    "MONTH" : "APRIL",
+    "DATA" : 218.1
+}
+
+/* 593 */
+{
+    "_id" : "rainfall592",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2000.0,
+    "MONTH" : "MAY",
+    "DATA" : 422.8
+}
+
+/* 594 */
+{
+    "_id" : "rainfall593",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2000.0,
+    "MONTH" : "JUNE",
+    "DATA" : 357.0
+}
+
+/* 595 */
+{
+    "_id" : "rainfall594",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2000.0,
+    "MONTH" : "JULY",
+    "DATA" : 176.3
+}
+
+/* 596 */
+{
+    "_id" : "rainfall595",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2000.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 460.8
+}
+
+/* 597 */
+{
+    "_id" : "rainfall596",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2000.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 250.1
+}
+
+/* 598 */
+{
+    "_id" : "rainfall597",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2000.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 321.2
+}
+
+/* 599 */
+{
+    "_id" : "rainfall598",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2000.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 158.3
+}
+
+/* 600 */
+{
+    "_id" : "rainfall599",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2000.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 115.2
+}
+
+/* 601 */
+{
+    "_id" : "rainfall600",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2001.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 89.0
+}
+
+/* 602 */
+{
+    "_id" : "rainfall601",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2001.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 15.7
+}
+
+/* 603 */
+{
+    "_id" : "rainfall602",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2001.0,
+    "MONTH" : "MARCH",
+    "DATA" : 143.3
+}
+
+/* 604 */
+{
+    "_id" : "rainfall603",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2001.0,
+    "MONTH" : "APRIL",
+    "DATA" : 30.1
+}
+
+/* 605 */
+{
+    "_id" : "rainfall604",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2001.0,
+    "MONTH" : "MAY",
+    "DATA" : 705.3
+}
+
+/* 606 */
+{
+    "_id" : "rainfall605",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2001.0,
+    "MONTH" : "JUNE",
+    "DATA" : 370.7
+}
+
+/* 607 */
+{
+    "_id" : "rainfall606",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2001.0,
+    "MONTH" : "JULY",
+    "DATA" : 341.3
+}
+
+/* 608 */
+{
+    "_id" : "rainfall607",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2001.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 469.0
+}
+
+/* 609 */
+{
+    "_id" : "rainfall608",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2001.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 334.4
+}
+
+/* 610 */
+{
+    "_id" : "rainfall609",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2001.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 267.6
+}
+
+/* 611 */
+{
+    "_id" : "rainfall610",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2001.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 222.6
+}
+
+/* 612 */
+{
+    "_id" : "rainfall611",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2001.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 91.8
+}
+
+/* 613 */
+{
+    "_id" : "rainfall612",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2002.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 10.6
+}
+
+/* 614 */
+{
+    "_id" : "rainfall613",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2002.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 0.0
+}
+
+/* 615 */
+{
+    "_id" : "rainfall614",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2002.0,
+    "MONTH" : "MARCH",
+    "DATA" : 11.5
+}
+
+/* 616 */
+{
+    "_id" : "rainfall615",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2002.0,
+    "MONTH" : "APRIL",
+    "DATA" : 100.2
+}
+
+/* 617 */
+{
+    "_id" : "rainfall616",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2002.0,
+    "MONTH" : "MAY",
+    "DATA" : 366.7
+}
+
+/* 618 */
+{
+    "_id" : "rainfall617",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2002.0,
+    "MONTH" : "JUNE",
+    "DATA" : 358.3
+}
+
+/* 619 */
+{
+    "_id" : "rainfall618",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2002.0,
+    "MONTH" : "JULY",
+    "DATA" : 317.4
+}
+
+/* 620 */
+{
+    "_id" : "rainfall619",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2002.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 429.8
+}
+
+/* 621 */
+{
+    "_id" : "rainfall620",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2002.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 420.0
+}
+
+/* 622 */
+{
+    "_id" : "rainfall621",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2002.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 169.0
+}
+
+/* 623 */
+{
+    "_id" : "rainfall622",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2002.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 306.7
+}
+
+/* 624 */
+{
+    "_id" : "rainfall623",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2002.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 129.9
+}
+
+/* 625 */
+{
+    "_id" : "rainfall624",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2003.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 44.3
+}
+
+/* 626 */
+{
+    "_id" : "rainfall625",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2003.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 7.9
+}
+
+/* 627 */
+{
+    "_id" : "rainfall626",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2003.0,
+    "MONTH" : "MARCH",
+    "DATA" : 149.2
+}
+
+/* 628 */
+{
+    "_id" : "rainfall627",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2003.0,
+    "MONTH" : "APRIL",
+    "DATA" : 19.4
+}
+
+/* 629 */
+{
+    "_id" : "rainfall628",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2003.0,
+    "MONTH" : "MAY",
+    "DATA" : 296.3
+}
+
+/* 630 */
+{
+    "_id" : "rainfall629",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2003.0,
+    "MONTH" : "JUNE",
+    "DATA" : 159.9
+}
+
+/* 631 */
+{
+    "_id" : "rainfall630",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2003.0,
+    "MONTH" : "JULY",
+    "DATA" : 494.9
+}
+
+/* 632 */
+{
+    "_id" : "rainfall631",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2003.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 379.4
+}
+
+/* 633 */
+{
+    "_id" : "rainfall632",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2003.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 371.9
+}
+
+/* 634 */
+{
+    "_id" : "rainfall633",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2003.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 310.4
+}
+
+/* 635 */
+{
+    "_id" : "rainfall634",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2003.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 74.1
+}
+
+/* 636 */
+{
+    "_id" : "rainfall635",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2003.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 48.0
+}
+
+/* 637 */
+{
+    "_id" : "rainfall636",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2004.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 54.5
+}
+
+/* 638 */
+{
+    "_id" : "rainfall637",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2004.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 35.9
+}
+
+/* 639 */
+{
+    "_id" : "rainfall638",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2004.0,
+    "MONTH" : "MARCH",
+    "DATA" : 36.5
+}
+
+/* 640 */
+{
+    "_id" : "rainfall639",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2004.0,
+    "MONTH" : "APRIL",
+    "DATA" : 41.6
+}
+
+/* 641 */
+{
+    "_id" : "rainfall640",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2004.0,
+    "MONTH" : "MAY",
+    "DATA" : 505.1
+}
+
+/* 642 */
+{
+    "_id" : "rainfall641",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2004.0,
+    "MONTH" : "JUNE",
+    "DATA" : 423.9
+}
+
+/* 643 */
+{
+    "_id" : "rainfall642",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2004.0,
+    "MONTH" : "JULY",
+    "DATA" : 378.9
+}
+
+/* 644 */
+{
+    "_id" : "rainfall643",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2004.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 308.7
+}
+
+/* 645 */
+{
+    "_id" : "rainfall644",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2004.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 280.7
+}
+
+/* 646 */
+{
+    "_id" : "rainfall645",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2004.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 223.9
+}
+
+/* 647 */
+{
+    "_id" : "rainfall646",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2004.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 169.9
+}
+
+/* 648 */
+{
+    "_id" : "rainfall647",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2004.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 0.4
+}
+
+/* 649 */
+{
+    "_id" : "rainfall648",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2005.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 0.0
+}
+
+/* 650 */
+{
+    "_id" : "rainfall649",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2005.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 0.0
+}
+
+/* 651 */
+{
+    "_id" : "rainfall650",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2005.0,
+    "MONTH" : "MARCH",
+    "DATA" : 20.3
+}
+
+/* 652 */
+{
+    "_id" : "rainfall651",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2005.0,
+    "MONTH" : "APRIL",
+    "DATA" : 51.1
+}
+
+/* 653 */
+{
+    "_id" : "rainfall652",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2005.0,
+    "MONTH" : "MAY",
+    "DATA" : 305.3
+}
+
+/* 654 */
+{
+    "_id" : "rainfall653",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2005.0,
+    "MONTH" : "JUNE",
+    "DATA" : 452.4
+}
+
+/* 655 */
+{
+    "_id" : "rainfall654",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2005.0,
+    "MONTH" : "JULY",
+    "DATA" : 429.3
+}
+
+/* 656 */
+{
+    "_id" : "rainfall655",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2005.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 311.1
+}
+
+/* 657 */
+{
+    "_id" : "rainfall656",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2005.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 507.5
+}
+
+/* 658 */
+{
+    "_id" : "rainfall657",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2005.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 293.5
+}
+
+/* 659 */
+{
+    "_id" : "rainfall658",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2005.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 300.1
+}
+
+/* 660 */
+{
+    "_id" : "rainfall659",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2005.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 283.9
+}
+
+/* 661 */
+{
+    "_id" : "rainfall660",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2006.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 16.3
+}
+
+/* 662 */
+{
+    "_id" : "rainfall661",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2006.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 14.4
+}
+
+/* 663 */
+{
+    "_id" : "rainfall662",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2006.0,
+    "MONTH" : "MARCH",
+    "DATA" : 48.9
+}
+
+/* 664 */
+{
+    "_id" : "rainfall663",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2006.0,
+    "MONTH" : "APRIL",
+    "DATA" : 163.7
+}
+
+/* 665 */
+{
+    "_id" : "rainfall664",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2006.0,
+    "MONTH" : "MAY",
+    "DATA" : 321.4
+}
+
+/* 666 */
+{
+    "_id" : "rainfall665",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2006.0,
+    "MONTH" : "JUNE",
+    "DATA" : 366.0
+}
+
+/* 667 */
+{
+    "_id" : "rainfall666",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2006.0,
+    "MONTH" : "JULY",
+    "DATA" : 182.7
+}
+
+/* 668 */
+{
+    "_id" : "rainfall667",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2006.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 219.6
+}
+
+/* 669 */
+{
+    "_id" : "rainfall668",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2006.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 546.5
+}
+
+/* 670 */
+{
+    "_id" : "rainfall669",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2006.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 374.7
+}
+
+/* 671 */
+{
+    "_id" : "rainfall670",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2006.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 76.1
+}
+
+/* 672 */
+{
+    "_id" : "rainfall671",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2006.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 74.4
+}
+
+/* 673 */
+{
+    "_id" : "rainfall672",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2007.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 4.9
+}
+
+/* 674 */
+{
+    "_id" : "rainfall673",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2007.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 1.6
+}
+
+/* 675 */
+{
+    "_id" : "rainfall674",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2007.0,
+    "MONTH" : "MARCH",
+    "DATA" : 5.0
+}
+
+/* 676 */
+{
+    "_id" : "rainfall675",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2007.0,
+    "MONTH" : "APRIL",
+    "DATA" : 54.6
+}
+
+/* 677 */
+{
+    "_id" : "rainfall676",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2007.0,
+    "MONTH" : "MAY",
+    "DATA" : 370.0
+}
+
+/* 678 */
+{
+    "_id" : "rainfall677",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2007.0,
+    "MONTH" : "JUNE",
+    "DATA" : 378.3
+}
+
+/* 679 */
+{
+    "_id" : "rainfall678",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2007.0,
+    "MONTH" : "JULY",
+    "DATA" : 463.2
+}
+
+/* 680 */
+{
+    "_id" : "rainfall679",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2007.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 465.3
+}
+
+/* 681 */
+{
+    "_id" : "rainfall680",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2007.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 486.4
+}
+
+/* 682 */
+{
+    "_id" : "rainfall681",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2007.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 209.4
+}
+
+/* 683 */
+{
+    "_id" : "rainfall682",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2007.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 223.9
+}
+
+/* 684 */
+{
+    "_id" : "rainfall683",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2007.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 85.6
+}
+
+/* 685 */
+{
+    "_id" : "rainfall684",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2008.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 9.9
+}
+
+/* 686 */
+{
+    "_id" : "rainfall685",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2008.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 67.7
+}
+
+/* 687 */
+{
+    "_id" : "rainfall686",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2008.0,
+    "MONTH" : "MARCH",
+    "DATA" : 115.8
+}
+
+/* 688 */
+{
+    "_id" : "rainfall687",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2008.0,
+    "MONTH" : "APRIL",
+    "DATA" : 216.1
+}
+
+/* 689 */
+{
+    "_id" : "rainfall688",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2008.0,
+    "MONTH" : "MAY",
+    "DATA" : 545.5
+}
+
+/* 690 */
+{
+    "_id" : "rainfall689",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2008.0,
+    "MONTH" : "JUNE",
+    "DATA" : 457.8
+}
+
+/* 691 */
+{
+    "_id" : "rainfall690",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2008.0,
+    "MONTH" : "JULY",
+    "DATA" : 511.2
+}
+
+/* 692 */
+{
+    "_id" : "rainfall691",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2008.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 482.1
+}
+
+/* 693 */
+{
+    "_id" : "rainfall692",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2008.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 332.0
+}
+
+/* 694 */
+{
+    "_id" : "rainfall693",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2008.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 243.7
+}
+
+/* 695 */
+{
+    "_id" : "rainfall694",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2008.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 321.1
+}
+
+/* 696 */
+{
+    "_id" : "rainfall695",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2008.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 72.0
+}
+
+/* 697 */
+{
+    "_id" : "rainfall696",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2009.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 24.5
+}
+
+/* 698 */
+{
+    "_id" : "rainfall697",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2009.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 6.3
+}
+
+/* 699 */
+{
+    "_id" : "rainfall698",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2009.0,
+    "MONTH" : "MARCH",
+    "DATA" : 44.2
+}
+
+/* 700 */
+{
+    "_id" : "rainfall699",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2009.0,
+    "MONTH" : "APRIL",
+    "DATA" : 136.5
+}
+
+/* 701 */
+{
+    "_id" : "rainfall700",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2009.0,
+    "MONTH" : "MAY",
+    "DATA" : 313.1
+}
+
+/* 702 */
+{
+    "_id" : "rainfall701",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2009.0,
+    "MONTH" : "JUNE",
+    "DATA" : 633.5
+}
+
+/* 703 */
+{
+    "_id" : "rainfall702",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2009.0,
+    "MONTH" : "JULY",
+    "DATA" : 297.3
+}
+
+/* 704 */
+{
+    "_id" : "rainfall703",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2009.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 351.5
+}
+
+/* 705 */
+{
+    "_id" : "rainfall704",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2009.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 344.7
+}
+
+/* 706 */
+{
+    "_id" : "rainfall705",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2009.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 272.8
+}
+
+/* 707 */
+{
+    "_id" : "rainfall706",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2009.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 66.2
+}
+
+/* 708 */
+{
+    "_id" : "rainfall707",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2009.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 48.0
+}
+
+/* 709 */
+{
+    "_id" : "rainfall708",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2010.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 101.7
+}
+
+/* 710 */
+{
+    "_id" : "rainfall709",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2010.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 8.0
+}
+
+/* 711 */
+{
+    "_id" : "rainfall710",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2010.0,
+    "MONTH" : "MARCH",
+    "DATA" : 0.7
+}
+
+/* 712 */
+{
+    "_id" : "rainfall711",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2010.0,
+    "MONTH" : "APRIL",
+    "DATA" : 12.5
+}
+
+/* 713 */
+{
+    "_id" : "rainfall712",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2010.0,
+    "MONTH" : "MAY",
+    "DATA" : 319.0
+}
+
+/* 714 */
+{
+    "_id" : "rainfall713",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2010.0,
+    "MONTH" : "JUNE",
+    "DATA" : 448.9
+}
+
+/* 715 */
+{
+    "_id" : "rainfall714",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2010.0,
+    "MONTH" : "JULY",
+    "DATA" : 521.9
+}
+
+/* 716 */
+{
+    "_id" : "rainfall715",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2010.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 563.8
+}
+
+/* 717 */
+{
+    "_id" : "rainfall716",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2010.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 263.3
+}
+
+/* 718 */
+{
+    "_id" : "rainfall717",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2010.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 402.4
+}
+
+/* 719 */
+{
+    "_id" : "rainfall718",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2010.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 268.5
+}
+
+/* 720 */
+{
+    "_id" : "rainfall719",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2010.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 246.4
+}
+
+/* 721 */
+{
+    "_id" : "rainfall720",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2011.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 265.9
+}
+
+/* 722 */
+{
+    "_id" : "rainfall721",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2011.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 84.8
+}
+
+/* 723 */
+{
+    "_id" : "rainfall722",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2011.0,
+    "MONTH" : "MARCH",
+    "DATA" : 272.8
+}
+
+/* 724 */
+{
+    "_id" : "rainfall723",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2011.0,
+    "MONTH" : "APRIL",
+    "DATA" : 111.4
+}
+
+/* 725 */
+{
+    "_id" : "rainfall724",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2011.0,
+    "MONTH" : "MAY",
+    "DATA" : 326.5
+}
+
+/* 726 */
+{
+    "_id" : "rainfall725",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2011.0,
+    "MONTH" : "JUNE",
+    "DATA" : 383.2
+}
+
+/* 727 */
+{
+    "_id" : "rainfall726",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2011.0,
+    "MONTH" : "JULY",
+    "DATA" : 583.2
+}
+
+/* 728 */
+{
+    "_id" : "rainfall727",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2011.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 441.5
+}
+
+/* 729 */
+{
+    "_id" : "rainfall728",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2011.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 757.1
+}
+
+/* 730 */
+{
+    "_id" : "rainfall729",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2011.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 212.3
+}
+
+/* 731 */
+{
+    "_id" : "rainfall730",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2011.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 150.8
+}
+
+/* 732 */
+{
+    "_id" : "rainfall731",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2011.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 238.5
+}
+
+/* 733 */
+{
+    "_id" : "rainfall732",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2012.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 119.9
+}
+
+/* 734 */
+{
+    "_id" : "rainfall733",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2012.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 45.6
+}
+
+/* 735 */
+{
+    "_id" : "rainfall734",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2012.0,
+    "MONTH" : "MARCH",
+    "DATA" : 30.9
+}
+
+/* 736 */
+{
+    "_id" : "rainfall735",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2012.0,
+    "MONTH" : "APRIL",
+    "DATA" : 55.8
+}
+
+/* 737 */
+{
+    "_id" : "rainfall736",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2012.0,
+    "MONTH" : "MAY",
+    "DATA" : 533.9
+}
+
+/* 738 */
+{
+    "_id" : "rainfall737",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2012.0,
+    "MONTH" : "JUNE",
+    "DATA" : 458.2
+}
+
+/* 739 */
+{
+    "_id" : "rainfall738",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2012.0,
+    "MONTH" : "JULY",
+    "DATA" : 317.3
+}
+
+/* 740 */
+{
+    "_id" : "rainfall739",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2012.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 369.6
+}
+
+/* 741 */
+{
+    "_id" : "rainfall740",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2012.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 868.9
+}
+
+/* 742 */
+{
+    "_id" : "rainfall741",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2012.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 209.7
+}
+
+/* 743 */
+{
+    "_id" : "rainfall742",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2012.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 300.5
+}
+
+/* 744 */
+{
+    "_id" : "rainfall743",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2012.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 187.3
+}
+
+/* 745 */
+{
+    "_id" : "rainfall744",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2013.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 67.1
+}
+
+/* 746 */
+{
+    "_id" : "rainfall745",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2013.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 37.6
+}
+
+/* 747 */
+{
+    "_id" : "rainfall746",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2013.0,
+    "MONTH" : "MARCH",
+    "DATA" : 43.0
+}
+
+/* 748 */
+{
+    "_id" : "rainfall747",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2013.0,
+    "MONTH" : "APRIL",
+    "DATA" : 46.3
+}
+
+/* 749 */
+{
+    "_id" : "rainfall748",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2013.0,
+    "MONTH" : "MAY",
+    "DATA" : 509.3
+}
+
+/* 750 */
+{
+    "_id" : "rainfall749",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2013.0,
+    "MONTH" : "JUNE",
+    "DATA" : 777.0
+}
+
+/* 751 */
+{
+    "_id" : "rainfall750",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2013.0,
+    "MONTH" : "JULY",
+    "DATA" : 564.8
+}
+
+/* 752 */
+{
+    "_id" : "rainfall751",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2013.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 336.7
+}
+
+/* 753 */
+{
+    "_id" : "rainfall752",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2013.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 473.6
+}
+
+/* 754 */
+{
+    "_id" : "rainfall753",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2013.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 455.8
+}
+
+/* 755 */
+{
+    "_id" : "rainfall754",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2013.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 354.2
+}
+
+/* 756 */
+{
+    "_id" : "rainfall755",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2013.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 92.3
+}
+
+/* 757 */
+{
+    "_id" : "rainfall756",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2014.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 41.9
+}
+
+/* 758 */
+{
+    "_id" : "rainfall757",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2014.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 8.6
+}
+
+/* 759 */
+{
+    "_id" : "rainfall758",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2014.0,
+    "MONTH" : "MARCH",
+    "DATA" : 45.1
+}
+
+/* 760 */
+{
+    "_id" : "rainfall759",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2014.0,
+    "MONTH" : "APRIL",
+    "DATA" : 11.1
+}
+
+/* 761 */
+{
+    "_id" : "rainfall760",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2014.0,
+    "MONTH" : "MAY",
+    "DATA" : 238.0
+}
+
+/* 762 */
+{
+    "_id" : "rainfall761",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2014.0,
+    "MONTH" : "JUNE",
+    "DATA" : 416.6
+}
+
+/* 763 */
+{
+    "_id" : "rainfall762",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2014.0,
+    "MONTH" : "JULY",
+    "DATA" : 467.6
+}
+
+/* 764 */
+{
+    "_id" : "rainfall763",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2014.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 321.6
+}
+
+/* 765 */
+{
+    "_id" : "rainfall764",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2014.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 412.9
+}
+
+/* 766 */
+{
+    "_id" : "rainfall765",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2014.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 402.6
+}
+
+/* 767 */
+{
+    "_id" : "rainfall766",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2014.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 201.2
+}
+
+/* 768 */
+{
+    "_id" : "rainfall767",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2014.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 100.4
+}
+
+/* 769 */
+{
+    "_id" : "rainfall768",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2015.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 126.8
+}
+
+/* 770 */
+{
+    "_id" : "rainfall769",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2015.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 7.6
+}
+
+/* 771 */
+{
+    "_id" : "rainfall770",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2015.0,
+    "MONTH" : "MARCH",
+    "DATA" : 3.1
+}
+
+/* 772 */
+{
+    "_id" : "rainfall771",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2015.0,
+    "MONTH" : "APRIL",
+    "DATA" : 138.2
+}
+
+/* 773 */
+{
+    "_id" : "rainfall772",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2015.0,
+    "MONTH" : "MAY",
+    "DATA" : 331.9
+}
+
+/* 774 */
+{
+    "_id" : "rainfall773",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2015.0,
+    "MONTH" : "JUNE",
+    "DATA" : 346.4
+}
+
+/* 775 */
+{
+    "_id" : "rainfall774",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2015.0,
+    "MONTH" : "JULY",
+    "DATA" : 328.9
+}
+
+/* 776 */
+{
+    "_id" : "rainfall775",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2015.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 480.0
+}
+
+/* 777 */
+{
+    "_id" : "rainfall776",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2015.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 523.3
+}
+
+/* 778 */
+{
+    "_id" : "rainfall777",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2015.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 252.1
+}
+
+/* 779 */
+{
+    "_id" : "rainfall778",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2015.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 236.3
+}
+
+/* 780 */
+{
+    "_id" : "rainfall779",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2015.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 129.9
+}
+
+/* 781 */
+{
+    "_id" : "rainfall780",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2016.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 72.0
+}
+
+/* 782 */
+{
+    "_id" : "rainfall781",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2016.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 15.8
+}
+
+/* 783 */
+{
+    "_id" : "rainfall782",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2016.0,
+    "MONTH" : "MARCH",
+    "DATA" : 5.4
+}
+
+/* 784 */
+{
+    "_id" : "rainfall783",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2016.0,
+    "MONTH" : "APRIL",
+    "DATA" : 2.4
+}
+
+/* 785 */
+{
+    "_id" : "rainfall784",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2016.0,
+    "MONTH" : "MAY",
+    "DATA" : 191.1
+}
+
+/* 786 */
+{
+    "_id" : "rainfall785",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2016.0,
+    "MONTH" : "JUNE",
+    "DATA" : 429.4
+}
+
+/* 787 */
+{
+    "_id" : "rainfall786",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2016.0,
+    "MONTH" : "JULY",
+    "DATA" : 301.2
+}
+
+/* 788 */
+{
+    "_id" : "rainfall787",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2016.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 227.7
+}
+
+/* 789 */
+{
+    "_id" : "rainfall788",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2016.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 604.3
+}
+
+/* 790 */
+{
+    "_id" : "rainfall789",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2016.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 287.2
+}
+
+/* 791 */
+{
+    "_id" : "rainfall790",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2016.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 181.7
+}
+
+/* 792 */
+{
+    "_id" : "rainfall791",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2016.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 533.7
+}
+
+/* 793 */
+{
+    "_id" : "rainfall792",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2017.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 228.7
+}
+
+/* 794 */
+{
+    "_id" : "rainfall793",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2017.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 5.6
+}
+
+/* 795 */
+{
+    "_id" : "rainfall794",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2017.0,
+    "MONTH" : "MARCH",
+    "DATA" : 33.0
+}
+
+/* 796 */
+{
+    "_id" : "rainfall795",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2017.0,
+    "MONTH" : "APRIL",
+    "DATA" : 108.3
+}
+
+/* 797 */
+{
+    "_id" : "rainfall796",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2017.0,
+    "MONTH" : "MAY",
+    "DATA" : 275.8
+}
+
+/* 798 */
+{
+    "_id" : "rainfall797",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2017.0,
+    "MONTH" : "JUNE",
+    "DATA" : 349.1
+}
+
+/* 799 */
+{
+    "_id" : "rainfall798",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2017.0,
+    "MONTH" : "JULY",
+    "DATA" : 389.4
+}
+
+/* 800 */
+{
+    "_id" : "rainfall799",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2017.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 414.7
+}
+
+/* 801 */
+{
+    "_id" : "rainfall800",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2017.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 372.8
+}
+
+/* 802 */
+{
+    "_id" : "rainfall801",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2017.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 263.0
+}
+
+/* 803 */
+{
+    "_id" : "rainfall802",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2017.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 205.9
+}
+
+/* 804 */
+{
+    "_id" : "rainfall803",
+    "REGION" : "ANDAMAN & NICOBAR ISLANDS",
+    "YEAR" : 2017.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 243.7
+}
+
+/* 805 */
+{
+    "_id" : "rainfall804",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1951.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 31.8
+}
+
+/* 806 */
+{
+    "_id" : "rainfall805",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1951.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 65.3
+}
+
+/* 807 */
+{
+    "_id" : "rainfall806",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1951.0,
+    "MONTH" : "MARCH",
+    "DATA" : 309.9
+}
+
+/* 808 */
+{
+    "_id" : "rainfall807",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1951.0,
+    "MONTH" : "APRIL",
+    "DATA" : 441.0
+}
+
+/* 809 */
+{
+    "_id" : "rainfall808",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1951.0,
+    "MONTH" : "MAY",
+    "DATA" : 344.5
+}
+
+/* 810 */
+{
+    "_id" : "rainfall809",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1951.0,
+    "MONTH" : "JUNE",
+    "DATA" : 757.8
+}
+
+/* 811 */
+{
+    "_id" : "rainfall810",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1951.0,
+    "MONTH" : "JULY",
+    "DATA" : 554.7
+}
+
+/* 812 */
+{
+    "_id" : "rainfall811",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1951.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 278.5
+}
+
+/* 813 */
+{
+    "_id" : "rainfall812",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1951.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 383.7
+}
+
+/* 814 */
+{
+    "_id" : "rainfall813",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1951.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 101.8
+}
+
+/* 815 */
+{
+    "_id" : "rainfall814",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1951.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 46.2
+}
+
+/* 816 */
+{
+    "_id" : "rainfall815",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1951.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 39.1
+}
+
+/* 817 */
+{
+    "_id" : "rainfall816",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1952.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 17.2
+}
+
+/* 818 */
+{
+    "_id" : "rainfall817",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1952.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 24.5
+}
+
+/* 819 */
+{
+    "_id" : "rainfall818",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1952.0,
+    "MONTH" : "MARCH",
+    "DATA" : 189.6
+}
+
+/* 820 */
+{
+    "_id" : "rainfall819",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1952.0,
+    "MONTH" : "APRIL",
+    "DATA" : 151.5
+}
+
+/* 821 */
+{
+    "_id" : "rainfall820",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1952.0,
+    "MONTH" : "MAY",
+    "DATA" : 235.1
+}
+
+/* 822 */
+{
+    "_id" : "rainfall821",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1952.0,
+    "MONTH" : "JUNE",
+    "DATA" : 276.8
+}
+
+/* 823 */
+{
+    "_id" : "rainfall822",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1952.0,
+    "MONTH" : "JULY",
+    "DATA" : 320.6
+}
+
+/* 824 */
+{
+    "_id" : "rainfall823",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1952.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 481.1
+}
+
+/* 825 */
+{
+    "_id" : "rainfall824",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1952.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 368.2
+}
+
+/* 826 */
+{
+    "_id" : "rainfall825",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1952.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 257.9
+}
+
+/* 827 */
+{
+    "_id" : "rainfall826",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1952.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 43.9
+}
+
+/* 828 */
+{
+    "_id" : "rainfall827",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1952.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 29.7
+}
+
+/* 829 */
+{
+    "_id" : "rainfall828",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1953.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 56.4
+}
+
+/* 830 */
+{
+    "_id" : "rainfall829",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1953.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 106.9
+}
+
+/* 831 */
+{
+    "_id" : "rainfall830",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1953.0,
+    "MONTH" : "MARCH",
+    "DATA" : 236.0
+}
+
+/* 832 */
+{
+    "_id" : "rainfall831",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1953.0,
+    "MONTH" : "APRIL",
+    "DATA" : 214.9
+}
+
+/* 833 */
+{
+    "_id" : "rainfall832",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1953.0,
+    "MONTH" : "MAY",
+    "DATA" : 314.9
+}
+
+/* 834 */
+{
+    "_id" : "rainfall833",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1953.0,
+    "MONTH" : "JUNE",
+    "DATA" : 409.9
+}
+
+/* 835 */
+{
+    "_id" : "rainfall834",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1953.0,
+    "MONTH" : "JULY",
+    "DATA" : 512.5
+}
+
+/* 836 */
+{
+    "_id" : "rainfall835",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1953.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 245.3
+}
+
+/* 837 */
+{
+    "_id" : "rainfall836",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1953.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 449.8
+}
+
+/* 838 */
+{
+    "_id" : "rainfall837",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1953.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 246.2
+}
+
+/* 839 */
+{
+    "_id" : "rainfall838",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1953.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 10.4
+}
+
+/* 840 */
+{
+    "_id" : "rainfall839",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1953.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 23.4
+}
+
+/* 841 */
+{
+    "_id" : "rainfall840",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1954.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 52.3
+}
+
+/* 842 */
+{
+    "_id" : "rainfall841",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1954.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 89.6
+}
+
+/* 843 */
+{
+    "_id" : "rainfall842",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1954.0,
+    "MONTH" : "MARCH",
+    "DATA" : 81.1
+}
+
+/* 844 */
+{
+    "_id" : "rainfall843",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1954.0,
+    "MONTH" : "APRIL",
+    "DATA" : 180.2
+}
+
+/* 845 */
+{
+    "_id" : "rainfall844",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1954.0,
+    "MONTH" : "MAY",
+    "DATA" : 326.5
+}
+
+/* 846 */
+{
+    "_id" : "rainfall845",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1954.0,
+    "MONTH" : "JUNE",
+    "DATA" : 253.1
+}
+
+/* 847 */
+{
+    "_id" : "rainfall846",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1954.0,
+    "MONTH" : "JULY",
+    "DATA" : 738.3
+}
+
+/* 848 */
+{
+    "_id" : "rainfall847",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1954.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 411.6
+}
+
+/* 849 */
+{
+    "_id" : "rainfall848",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1954.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 366.4
+}
+
+/* 850 */
+{
+    "_id" : "rainfall849",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1954.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 75.8
+}
+
+/* 851 */
+{
+    "_id" : "rainfall850",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1954.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 6.9
+}
+
+/* 852 */
+{
+    "_id" : "rainfall851",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1954.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 15.7
+}
+
+/* 853 */
+{
+    "_id" : "rainfall852",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1955.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 34.9
+}
+
+/* 854 */
+{
+    "_id" : "rainfall853",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1955.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 23.6
+}
+
+/* 855 */
+{
+    "_id" : "rainfall854",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1955.0,
+    "MONTH" : "MARCH",
+    "DATA" : 33.8
+}
+
+/* 856 */
+{
+    "_id" : "rainfall855",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1955.0,
+    "MONTH" : "APRIL",
+    "DATA" : 117.6
+}
+
+/* 857 */
+{
+    "_id" : "rainfall856",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1955.0,
+    "MONTH" : "MAY",
+    "DATA" : 238.0
+}
+
+/* 858 */
+{
+    "_id" : "rainfall857",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1955.0,
+    "MONTH" : "JUNE",
+    "DATA" : 446.0
+}
+
+/* 859 */
+{
+    "_id" : "rainfall858",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1955.0,
+    "MONTH" : "JULY",
+    "DATA" : 432.7
+}
+
+/* 860 */
+{
+    "_id" : "rainfall859",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1955.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 220.8
+}
+
+/* 861 */
+{
+    "_id" : "rainfall860",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1955.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 172.9
+}
+
+/* 862 */
+{
+    "_id" : "rainfall861",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1955.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 235.1
+}
+
+/* 863 */
+{
+    "_id" : "rainfall862",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1955.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 88.9
+}
+
+/* 864 */
+{
+    "_id" : "rainfall863",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1955.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 11.5
+}
+
+/* 865 */
+{
+    "_id" : "rainfall864",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1956.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 56.3
+}
+
+/* 866 */
+{
+    "_id" : "rainfall865",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1956.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 56.4
+}
+
+/* 867 */
+{
+    "_id" : "rainfall866",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1956.0,
+    "MONTH" : "MARCH",
+    "DATA" : 47.1
+}
+
+/* 868 */
+{
+    "_id" : "rainfall867",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1956.0,
+    "MONTH" : "APRIL",
+    "DATA" : 121.8
+}
+
+/* 869 */
+{
+    "_id" : "rainfall868",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1956.0,
+    "MONTH" : "MAY",
+    "DATA" : 331.9
+}
+
+/* 870 */
+{
+    "_id" : "rainfall869",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1956.0,
+    "MONTH" : "JUNE",
+    "DATA" : 494.9
+}
+
+/* 871 */
+{
+    "_id" : "rainfall870",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1956.0,
+    "MONTH" : "JULY",
+    "DATA" : 377.9
+}
+
+/* 872 */
+{
+    "_id" : "rainfall871",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1956.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 227.5
+}
+
+/* 873 */
+{
+    "_id" : "rainfall872",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1956.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 212.8
+}
+
+/* 874 */
+{
+    "_id" : "rainfall873",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1956.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 213.5
+}
+
+/* 875 */
+{
+    "_id" : "rainfall874",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1956.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 87.9
+}
+
+/* 876 */
+{
+    "_id" : "rainfall875",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1956.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 21.5
+}
+
+/* 877 */
+{
+    "_id" : "rainfall876",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1957.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 67.4
+}
+
+/* 878 */
+{
+    "_id" : "rainfall877",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1957.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 33.5
+}
+
+/* 879 */
+{
+    "_id" : "rainfall878",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1957.0,
+    "MONTH" : "MARCH",
+    "DATA" : 101.7
+}
+
+/* 880 */
+{
+    "_id" : "rainfall879",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1957.0,
+    "MONTH" : "APRIL",
+    "DATA" : 246.9
+}
+
+/* 881 */
+{
+    "_id" : "rainfall880",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1957.0,
+    "MONTH" : "MAY",
+    "DATA" : 448.9
+}
+
+/* 882 */
+{
+    "_id" : "rainfall881",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1957.0,
+    "MONTH" : "JUNE",
+    "DATA" : 608.1
+}
+
+/* 883 */
+{
+    "_id" : "rainfall882",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1957.0,
+    "MONTH" : "JULY",
+    "DATA" : 1219.4
+}
+
+/* 884 */
+{
+    "_id" : "rainfall883",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1957.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 542.6
+}
+
+/* 885 */
+{
+    "_id" : "rainfall884",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1957.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 505.8
+}
+
+/* 886 */
+{
+    "_id" : "rainfall885",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1957.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 146.6
+}
+
+/* 887 */
+{
+    "_id" : "rainfall886",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1957.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 17.1
+}
+
+/* 888 */
+{
+    "_id" : "rainfall887",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1957.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 40.9
+}
+
+/* 889 */
+{
+    "_id" : "rainfall888",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1958.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 98.4
+}
+
+/* 890 */
+{
+    "_id" : "rainfall889",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1958.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 67.5
+}
+
+/* 891 */
+{
+    "_id" : "rainfall890",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1958.0,
+    "MONTH" : "MARCH",
+    "DATA" : 32.9
+}
+
+/* 892 */
+{
+    "_id" : "rainfall891",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1958.0,
+    "MONTH" : "APRIL",
+    "DATA" : 138.5
+}
+
+/* 893 */
+{
+    "_id" : "rainfall892",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1958.0,
+    "MONTH" : "MAY",
+    "DATA" : 698.6
+}
+
+/* 894 */
+{
+    "_id" : "rainfall893",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1958.0,
+    "MONTH" : "JUNE",
+    "DATA" : 511.2
+}
+
+/* 895 */
+{
+    "_id" : "rainfall894",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1958.0,
+    "MONTH" : "JULY",
+    "DATA" : 457.7
+}
+
+/* 896 */
+{
+    "_id" : "rainfall895",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1958.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 1664.6
+}
+
+/* 897 */
+{
+    "_id" : "rainfall896",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1958.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 705.2
+}
+
+/* 898 */
+{
+    "_id" : "rainfall897",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1958.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 669.4
+}
+
+/* 899 */
+{
+    "_id" : "rainfall898",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1958.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 2.5
+}
+
+/* 900 */
+{
+    "_id" : "rainfall899",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1958.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 17.0
+}
+
+/* 901 */
+{
+    "_id" : "rainfall900",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1959.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 83.2
+}
+
+/* 902 */
+{
+    "_id" : "rainfall901",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1959.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 137.9
+}
+
+/* 903 */
+{
+    "_id" : "rainfall902",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1959.0,
+    "MONTH" : "MARCH",
+    "DATA" : 104.5
+}
+
+/* 904 */
+{
+    "_id" : "rainfall903",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1959.0,
+    "MONTH" : "APRIL",
+    "DATA" : 146.4
+}
+
+/* 905 */
+{
+    "_id" : "rainfall904",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1959.0,
+    "MONTH" : "MAY",
+    "DATA" : 671.8
+}
+
+/* 906 */
+{
+    "_id" : "rainfall905",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1959.0,
+    "MONTH" : "JUNE",
+    "DATA" : 812.9
+}
+
+/* 907 */
+{
+    "_id" : "rainfall906",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1959.0,
+    "MONTH" : "JULY",
+    "DATA" : 1137.7
+}
+
+/* 908 */
+{
+    "_id" : "rainfall907",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1959.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 333.2
+}
+
+/* 909 */
+{
+    "_id" : "rainfall908",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1959.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 508.8
+}
+
+/* 910 */
+{
+    "_id" : "rainfall909",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1959.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 247.0
+}
+
+/* 911 */
+{
+    "_id" : "rainfall910",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1959.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 12.1
+}
+
+/* 912 */
+{
+    "_id" : "rainfall911",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1959.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 12.2
+}
+
+/* 913 */
+{
+    "_id" : "rainfall912",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1960.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 8.0
+}
+
+/* 914 */
+{
+    "_id" : "rainfall913",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1960.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 26.8
+}
+
+/* 915 */
+{
+    "_id" : "rainfall914",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1960.0,
+    "MONTH" : "MARCH",
+    "DATA" : 53.2
+}
+
+/* 916 */
+{
+    "_id" : "rainfall915",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1960.0,
+    "MONTH" : "APRIL",
+    "DATA" : 137.1
+}
+
+/* 917 */
+{
+    "_id" : "rainfall916",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1960.0,
+    "MONTH" : "MAY",
+    "DATA" : 210.7
+}
+
+/* 918 */
+{
+    "_id" : "rainfall917",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1960.0,
+    "MONTH" : "JUNE",
+    "DATA" : 653.9
+}
+
+/* 919 */
+{
+    "_id" : "rainfall918",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1960.0,
+    "MONTH" : "JULY",
+    "DATA" : 1296.8
+}
+
+/* 920 */
+{
+    "_id" : "rainfall919",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1960.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 251.3
+}
+
+/* 921 */
+{
+    "_id" : "rainfall920",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1960.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 1034.8
+}
+
+/* 922 */
+{
+    "_id" : "rainfall921",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1960.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 13.0
+}
+
+/* 923 */
+{
+    "_id" : "rainfall922",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1960.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 13.4
+}
+
+/* 924 */
+{
+    "_id" : "rainfall923",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1960.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 10.4
+}
+
+/* 925 */
+{
+    "_id" : "rainfall924",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1961.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 50.0
+}
+
+/* 926 */
+{
+    "_id" : "rainfall925",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1961.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 204.2
+}
+
+/* 927 */
+{
+    "_id" : "rainfall926",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1961.0,
+    "MONTH" : "MARCH",
+    "DATA" : 289.6
+}
+
+/* 928 */
+{
+    "_id" : "rainfall927",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1961.0,
+    "MONTH" : "APRIL",
+    "DATA" : 181.0
+}
+
+/* 929 */
+{
+    "_id" : "rainfall928",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1961.0,
+    "MONTH" : "MAY",
+    "DATA" : 492.3
+}
+
+/* 930 */
+{
+    "_id" : "rainfall929",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1961.0,
+    "MONTH" : "JUNE",
+    "DATA" : 595.5
+}
+
+/* 931 */
+{
+    "_id" : "rainfall930",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1961.0,
+    "MONTH" : "JULY",
+    "DATA" : 738.3
+}
+
+/* 932 */
+{
+    "_id" : "rainfall931",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1961.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 547.9
+}
+
+/* 933 */
+{
+    "_id" : "rainfall932",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1961.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 256.2
+}
+
+/* 934 */
+{
+    "_id" : "rainfall933",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1961.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 260.5
+}
+
+/* 935 */
+{
+    "_id" : "rainfall934",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1961.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 57.1
+}
+
+/* 936 */
+{
+    "_id" : "rainfall935",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1961.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 3.9
+}
+
+/* 937 */
+{
+    "_id" : "rainfall936",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1962.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 37.2
+}
+
+/* 938 */
+{
+    "_id" : "rainfall937",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1962.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 87.1
+}
+
+/* 939 */
+{
+    "_id" : "rainfall938",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1962.0,
+    "MONTH" : "MARCH",
+    "DATA" : 45.1
+}
+
+/* 940 */
+{
+    "_id" : "rainfall939",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1962.0,
+    "MONTH" : "APRIL",
+    "DATA" : 250.3
+}
+
+/* 941 */
+{
+    "_id" : "rainfall940",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1962.0,
+    "MONTH" : "MAY",
+    "DATA" : 601.9
+}
+
+/* 942 */
+{
+    "_id" : "rainfall941",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1962.0,
+    "MONTH" : "JUNE",
+    "DATA" : 1088.8
+}
+
+/* 943 */
+{
+    "_id" : "rainfall942",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1962.0,
+    "MONTH" : "JULY",
+    "DATA" : 758.1
+}
+
+/* 944 */
+{
+    "_id" : "rainfall943",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1962.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 1405.9
+}
+
+/* 945 */
+{
+    "_id" : "rainfall944",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1962.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 222.4
+}
+
+/* 946 */
+{
+    "_id" : "rainfall945",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1962.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 255.6
+}
+
+/* 947 */
+{
+    "_id" : "rainfall946",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1962.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 12.2
+}
+
+/* 948 */
+{
+    "_id" : "rainfall947",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1962.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 2.1
+}
+
+/* 949 */
+{
+    "_id" : "rainfall948",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1963.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 14.6
+}
+
+/* 950 */
+{
+    "_id" : "rainfall949",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1963.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 35.2
+}
+
+/* 951 */
+{
+    "_id" : "rainfall950",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1963.0,
+    "MONTH" : "MARCH",
+    "DATA" : 168.6
+}
+
+/* 952 */
+{
+    "_id" : "rainfall951",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1963.0,
+    "MONTH" : "APRIL",
+    "DATA" : 262.6
+}
+
+/* 953 */
+{
+    "_id" : "rainfall952",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1963.0,
+    "MONTH" : "MAY",
+    "DATA" : 346.4
+}
+
+/* 954 */
+{
+    "_id" : "rainfall953",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1963.0,
+    "MONTH" : "JUNE",
+    "DATA" : 755.4
+}
+
+/* 955 */
+{
+    "_id" : "rainfall954",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1963.0,
+    "MONTH" : "JULY",
+    "DATA" : 817.4
+}
+
+/* 956 */
+{
+    "_id" : "rainfall955",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1963.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 1199.3
+}
+
+/* 957 */
+{
+    "_id" : "rainfall956",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1963.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 366.4
+}
+
+/* 958 */
+{
+    "_id" : "rainfall957",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1963.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 136.4
+}
+
+/* 959 */
+{
+    "_id" : "rainfall958",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1963.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 20.0
+}
+
+/* 960 */
+{
+    "_id" : "rainfall959",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1963.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 15.7
+}
+
+/* 961 */
+{
+    "_id" : "rainfall960",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1964.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 55.4
+}
+
+/* 962 */
+{
+    "_id" : "rainfall961",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1964.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 90.3
+}
+
+/* 963 */
+{
+    "_id" : "rainfall962",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1964.0,
+    "MONTH" : "MARCH",
+    "DATA" : 81.1
+}
+
+/* 964 */
+{
+    "_id" : "rainfall963",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1964.0,
+    "MONTH" : "APRIL",
+    "DATA" : 219.7
+}
+
+/* 965 */
+{
+    "_id" : "rainfall964",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1964.0,
+    "MONTH" : "MAY",
+    "DATA" : 286.4
+}
+
+/* 966 */
+{
+    "_id" : "rainfall965",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1964.0,
+    "MONTH" : "JUNE",
+    "DATA" : 1432.8
+}
+
+/* 967 */
+{
+    "_id" : "rainfall966",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1964.0,
+    "MONTH" : "JULY",
+    "DATA" : 1506.1
+}
+
+/* 968 */
+{
+    "_id" : "rainfall967",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1964.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 492.1
+}
+
+/* 969 */
+{
+    "_id" : "rainfall968",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1964.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 465.1
+}
+
+/* 970 */
+{
+    "_id" : "rainfall969",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1964.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 246.2
+}
+
+/* 971 */
+{
+    "_id" : "rainfall970",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1964.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 12.2
+}
+
+/* 972 */
+{
+    "_id" : "rainfall971",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1964.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 71.9
+}
+
+/* 973 */
+{
+    "_id" : "rainfall972",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1965.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 37.4
+}
+
+/* 974 */
+{
+    "_id" : "rainfall973",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1965.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 120.7
+}
+
+/* 975 */
+{
+    "_id" : "rainfall974",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1965.0,
+    "MONTH" : "MARCH",
+    "DATA" : 103.7
+}
+
+/* 976 */
+{
+    "_id" : "rainfall975",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1965.0,
+    "MONTH" : "APRIL",
+    "DATA" : 254.4
+}
+
+/* 977 */
+{
+    "_id" : "rainfall976",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1965.0,
+    "MONTH" : "MAY",
+    "DATA" : 306.9
+}
+
+/* 978 */
+{
+    "_id" : "rainfall977",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1965.0,
+    "MONTH" : "JUNE",
+    "DATA" : 404.7
+}
+
+/* 979 */
+{
+    "_id" : "rainfall978",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1965.0,
+    "MONTH" : "JULY",
+    "DATA" : 315.8
+}
+
+/* 980 */
+{
+    "_id" : "rainfall979",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1965.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 351.3
+}
+
+/* 981 */
+{
+    "_id" : "rainfall980",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1965.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 172.9
+}
+
+/* 982 */
+{
+    "_id" : "rainfall981",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1965.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 51.5
+}
+
+/* 983 */
+{
+    "_id" : "rainfall982",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1965.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 72.6
+}
+
+/* 984 */
+{
+    "_id" : "rainfall983",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1965.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 4.9
+}
+
+/* 985 */
+{
+    "_id" : "rainfall984",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1966.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 22.4
+}
+
+/* 986 */
+{
+    "_id" : "rainfall985",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1966.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 91.5
+}
+
+/* 987 */
+{
+    "_id" : "rainfall986",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1966.0,
+    "MONTH" : "MARCH",
+    "DATA" : 98.4
+}
+
+/* 988 */
+{
+    "_id" : "rainfall987",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1966.0,
+    "MONTH" : "APRIL",
+    "DATA" : 180.2
+}
+
+/* 989 */
+{
+    "_id" : "rainfall988",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1966.0,
+    "MONTH" : "MAY",
+    "DATA" : 177.9
+}
+
+/* 990 */
+{
+    "_id" : "rainfall989",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1966.0,
+    "MONTH" : "JUNE",
+    "DATA" : 473.2
+}
+
+/* 991 */
+{
+    "_id" : "rainfall990",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1966.0,
+    "MONTH" : "JULY",
+    "DATA" : 432.7
+}
+
+/* 992 */
+{
+    "_id" : "rainfall991",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1966.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 411.6
+}
+
+/* 993 */
+{
+    "_id" : "rainfall992",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1966.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 197.6
+}
+
+/* 994 */
+{
+    "_id" : "rainfall993",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1966.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 78.9
+}
+
+/* 995 */
+{
+    "_id" : "rainfall994",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1966.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 39.0
+}
+
+/* 996 */
+{
+    "_id" : "rainfall995",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1966.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 6.3
+}
+
+/* 997 */
+{
+    "_id" : "rainfall996",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1967.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 13.3
+}
+
+/* 998 */
+{
+    "_id" : "rainfall997",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1967.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 45.5
+}
+
+/* 999 */
+{
+    "_id" : "rainfall998",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1967.0,
+    "MONTH" : "MARCH",
+    "DATA" : 147.9
+}
+
+/* 1000 */
+{
+    "_id" : "rainfall999",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1967.0,
+    "MONTH" : "APRIL",
+    "DATA" : 96.6
+}
+
+/* 1001 */
+{
+    "_id" : "rainfall1000",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1967.0,
+    "MONTH" : "MAY",
+    "DATA" : 164.0
+}
+
+/* 1002 */
+{
+    "_id" : "rainfall1001",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1967.0,
+    "MONTH" : "JUNE",
+    "DATA" : 253.1
+}
+
+/* 1003 */
+{
+    "_id" : "rainfall1002",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1967.0,
+    "MONTH" : "JULY",
+    "DATA" : 434.5
+}
+
+/* 1004 */
+{
+    "_id" : "rainfall1003",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1967.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 220.8
+}
+
+/* 1005 */
+{
+    "_id" : "rainfall1004",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1967.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 212.8
+}
+
+/* 1006 */
+{
+    "_id" : "rainfall1005",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1967.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 58.5
+}
+
+/* 1007 */
+{
+    "_id" : "rainfall1006",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1967.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 10.0
+}
+
+/* 1008 */
+{
+    "_id" : "rainfall1007",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1967.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 11.5
+}
+
+/* 1009 */
+{
+    "_id" : "rainfall1008",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1968.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 54.2
+}
+
+/* 1010 */
+{
+    "_id" : "rainfall1009",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1968.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 41.4
+}
+
+/* 1011 */
+{
+    "_id" : "rainfall1010",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1968.0,
+    "MONTH" : "MARCH",
+    "DATA" : 135.9
+}
+
+/* 1012 */
+{
+    "_id" : "rainfall1011",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1968.0,
+    "MONTH" : "APRIL",
+    "DATA" : 117.6
+}
+
+/* 1013 */
+{
+    "_id" : "rainfall1012",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1968.0,
+    "MONTH" : "MAY",
+    "DATA" : 307.2
+}
+
+/* 1014 */
+{
+    "_id" : "rainfall1013",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1968.0,
+    "MONTH" : "JUNE",
+    "DATA" : 510.1
+}
+
+/* 1015 */
+{
+    "_id" : "rainfall1014",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1968.0,
+    "MONTH" : "JULY",
+    "DATA" : 404.8
+}
+
+/* 1016 */
+{
+    "_id" : "rainfall1015",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1968.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 227.5
+}
+
+/* 1017 */
+{
+    "_id" : "rainfall1016",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1968.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 243.5
+}
+
+/* 1018 */
+{
+    "_id" : "rainfall1017",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1968.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 75.8
+}
+
+/* 1019 */
+{
+    "_id" : "rainfall1018",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1968.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 12.5
+}
+
+/* 1020 */
+{
+    "_id" : "rainfall1019",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1968.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 8.4
+}
+
+/* 1021 */
+{
+    "_id" : "rainfall1020",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1969.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 19.2
+}
+
+/* 1022 */
+{
+    "_id" : "rainfall1021",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1969.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 10.0
+}
+
+/* 1023 */
+{
+    "_id" : "rainfall1022",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1969.0,
+    "MONTH" : "MARCH",
+    "DATA" : 33.8
+}
+
+/* 1024 */
+{
+    "_id" : "rainfall1023",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1969.0,
+    "MONTH" : "APRIL",
+    "DATA" : 127.0
+}
+
+/* 1025 */
+{
+    "_id" : "rainfall1024",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1969.0,
+    "MONTH" : "MAY",
+    "DATA" : 202.3
+}
+
+/* 1026 */
+{
+    "_id" : "rainfall1025",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1969.0,
+    "MONTH" : "JUNE",
+    "DATA" : 412.3
+}
+
+/* 1027 */
+{
+    "_id" : "rainfall1026",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1969.0,
+    "MONTH" : "JULY",
+    "DATA" : 405.1
+}
+
+/* 1028 */
+{
+    "_id" : "rainfall1027",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1969.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 333.9
+}
+
+/* 1029 */
+{
+    "_id" : "rainfall1028",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1969.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 241.4
+}
+
+/* 1030 */
+{
+    "_id" : "rainfall1029",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1969.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 42.9
+}
+
+/* 1031 */
+{
+    "_id" : "rainfall1030",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1969.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 34.8
+}
+
+/* 1032 */
+{
+    "_id" : "rainfall1031",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1969.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 15.1
+}
+
+/* 1033 */
+{
+    "_id" : "rainfall1032",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1970.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 49.2
+}
+
+/* 1034 */
+{
+    "_id" : "rainfall1033",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1970.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 78.8
+}
+
+/* 1035 */
+{
+    "_id" : "rainfall1034",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1970.0,
+    "MONTH" : "MARCH",
+    "DATA" : 57.4
+}
+
+/* 1036 */
+{
+    "_id" : "rainfall1035",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1970.0,
+    "MONTH" : "APRIL",
+    "DATA" : 108.8
+}
+
+/* 1037 */
+{
+    "_id" : "rainfall1036",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1970.0,
+    "MONTH" : "MAY",
+    "DATA" : 213.4
+}
+
+/* 1038 */
+{
+    "_id" : "rainfall1037",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1970.0,
+    "MONTH" : "JUNE",
+    "DATA" : 409.6
+}
+
+/* 1039 */
+{
+    "_id" : "rainfall1038",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1970.0,
+    "MONTH" : "JULY",
+    "DATA" : 377.9
+}
+
+/* 1040 */
+{
+    "_id" : "rainfall1039",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1970.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 245.4
+}
+
+/* 1041 */
+{
+    "_id" : "rainfall1040",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1970.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 287.4
+}
+
+/* 1042 */
+{
+    "_id" : "rainfall1041",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1970.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 138.6
+}
+
+/* 1043 */
+{
+    "_id" : "rainfall1042",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1970.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 6.9
+}
+
+/* 1044 */
+{
+    "_id" : "rainfall1043",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1970.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 12.2
+}
+
+/* 1045 */
+{
+    "_id" : "rainfall1044",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1971.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 56.0
+}
+
+/* 1046 */
+{
+    "_id" : "rainfall1045",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1971.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 67.8
+}
+
+/* 1047 */
+{
+    "_id" : "rainfall1046",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1971.0,
+    "MONTH" : "MARCH",
+    "DATA" : 47.1
+}
+
+/* 1048 */
+{
+    "_id" : "rainfall1047",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1971.0,
+    "MONTH" : "APRIL",
+    "DATA" : 121.8
+}
+
+/* 1049 */
+{
+    "_id" : "rainfall1048",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1971.0,
+    "MONTH" : "MAY",
+    "DATA" : 222.4
+}
+
+/* 1050 */
+{
+    "_id" : "rainfall1049",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1971.0,
+    "MONTH" : "JUNE",
+    "DATA" : 446.0
+}
+
+/* 1051 */
+{
+    "_id" : "rainfall1050",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1971.0,
+    "MONTH" : "JULY",
+    "DATA" : 385.5
+}
+
+/* 1052 */
+{
+    "_id" : "rainfall1051",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1971.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 288.2
+}
+
+/* 1053 */
+{
+    "_id" : "rainfall1052",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1971.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 239.6
+}
+
+/* 1054 */
+{
+    "_id" : "rainfall1053",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1971.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 235.1
+}
+
+/* 1055 */
+{
+    "_id" : "rainfall1054",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1971.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 67.8
+}
+
+/* 1056 */
+{
+    "_id" : "rainfall1055",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1971.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 7.3
+}
+
+/* 1057 */
+{
+    "_id" : "rainfall1056",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1972.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 39.2
+}
+
+/* 1058 */
+{
+    "_id" : "rainfall1057",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1972.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 114.2
+}
+
+/* 1059 */
+{
+    "_id" : "rainfall1058",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1972.0,
+    "MONTH" : "MARCH",
+    "DATA" : 108.3
+}
+
+/* 1060 */
+{
+    "_id" : "rainfall1059",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1972.0,
+    "MONTH" : "APRIL",
+    "DATA" : 231.5
+}
+
+/* 1061 */
+{
+    "_id" : "rainfall1060",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1972.0,
+    "MONTH" : "MAY",
+    "DATA" : 299.5
+}
+
+/* 1062 */
+{
+    "_id" : "rainfall1061",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1972.0,
+    "MONTH" : "JUNE",
+    "DATA" : 314.4
+}
+
+/* 1063 */
+{
+    "_id" : "rainfall1062",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1972.0,
+    "MONTH" : "JULY",
+    "DATA" : 438.3
+}
+
+/* 1064 */
+{
+    "_id" : "rainfall1063",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1972.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 270.7
+}
+
+/* 1065 */
+{
+    "_id" : "rainfall1064",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1972.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 334.5
+}
+
+/* 1066 */
+{
+    "_id" : "rainfall1065",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1972.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 83.3
+}
+
+/* 1067 */
+{
+    "_id" : "rainfall1066",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1972.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 25.9
+}
+
+/* 1068 */
+{
+    "_id" : "rainfall1067",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1972.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 21.5
+}
+
+/* 1069 */
+{
+    "_id" : "rainfall1068",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1973.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 136.4
+}
+
+/* 1070 */
+{
+    "_id" : "rainfall1069",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1973.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 147.1
+}
+
+/* 1071 */
+{
+    "_id" : "rainfall1070",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1973.0,
+    "MONTH" : "MARCH",
+    "DATA" : 82.3
+}
+
+/* 1072 */
+{
+    "_id" : "rainfall1071",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1973.0,
+    "MONTH" : "APRIL",
+    "DATA" : 215.3
+}
+
+/* 1073 */
+{
+    "_id" : "rainfall1072",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1973.0,
+    "MONTH" : "MAY",
+    "DATA" : 256.5
+}
+
+/* 1074 */
+{
+    "_id" : "rainfall1073",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1973.0,
+    "MONTH" : "JUNE",
+    "DATA" : 571.1
+}
+
+/* 1075 */
+{
+    "_id" : "rainfall1074",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1973.0,
+    "MONTH" : "JULY",
+    "DATA" : 284.8
+}
+
+/* 1076 */
+{
+    "_id" : "rainfall1075",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1973.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 271.3
+}
+
+/* 1077 */
+{
+    "_id" : "rainfall1076",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1973.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 258.3
+}
+
+/* 1078 */
+{
+    "_id" : "rainfall1077",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1973.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 110.2
+}
+
+/* 1079 */
+{
+    "_id" : "rainfall1078",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1973.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 88.9
+}
+
+/* 1080 */
+{
+    "_id" : "rainfall1079",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1973.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 35.4
+}
+
+/* 1081 */
+{
+    "_id" : "rainfall1080",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1974.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 130.9
+}
+
+/* 1082 */
+{
+    "_id" : "rainfall1081",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1974.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 95.4
+}
+
+/* 1083 */
+{
+    "_id" : "rainfall1082",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1974.0,
+    "MONTH" : "MARCH",
+    "DATA" : 127.8
+}
+
+/* 1084 */
+{
+    "_id" : "rainfall1083",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1974.0,
+    "MONTH" : "APRIL",
+    "DATA" : 272.6
+}
+
+/* 1085 */
+{
+    "_id" : "rainfall1084",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1974.0,
+    "MONTH" : "MAY",
+    "DATA" : 248.3
+}
+
+/* 1086 */
+{
+    "_id" : "rainfall1085",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1974.0,
+    "MONTH" : "JUNE",
+    "DATA" : 466.7
+}
+
+/* 1087 */
+{
+    "_id" : "rainfall1086",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1974.0,
+    "MONTH" : "JULY",
+    "DATA" : 648.9
+}
+
+/* 1088 */
+{
+    "_id" : "rainfall1087",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1974.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 446.8
+}
+
+/* 1089 */
+{
+    "_id" : "rainfall1088",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1974.0,
+    "MONTH" : "SEPTEMBER",
+    "DATA" : 461.2
+}
+
+/* 1090 */
+{
+    "_id" : "rainfall1089",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1974.0,
+    "MONTH" : "OCTOBER",
+    "DATA" : 121.1
+}
+
+/* 1091 */
+{
+    "_id" : "rainfall1090",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1974.0,
+    "MONTH" : "NOVEMBER",
+    "DATA" : 14.0
+}
+
+/* 1092 */
+{
+    "_id" : "rainfall1091",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1974.0,
+    "MONTH" : "DECEMBER",
+    "DATA" : 30.3
+}
+
+/* 1093 */
+{
+    "_id" : "rainfall1092",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1975.0,
+    "MONTH" : "JANUARY",
+    "DATA" : 17.3
+}
+
+/* 1094 */
+{
+    "_id" : "rainfall1093",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1975.0,
+    "MONTH" : "FEBRUARY",
+    "DATA" : 76.9
+}
+
+/* 1095 */
+{
+    "_id" : "rainfall1094",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1975.0,
+    "MONTH" : "MARCH",
+    "DATA" : 101.7
+}
+
+/* 1096 */
+{
+    "_id" : "rainfall1095",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1975.0,
+    "MONTH" : "APRIL",
+    "DATA" : 165.1
+}
+
+/* 1097 */
+{
+    "_id" : "rainfall1096",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1975.0,
+    "MONTH" : "MAY",
+    "DATA" : 188.0
+}
+
+/* 1098 */
+{
+    "_id" : "rainfall1097",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1975.0,
+    "MONTH" : "JUNE",
+    "DATA" : 268.5
+}
+
+/* 1099 */
+{
+    "_id" : "rainfall1098",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1975.0,
+    "MONTH" : "JULY",
+    "DATA" : 427.0
+}
+
+/* 1100 */
+{
+    "_id" : "rainfall1099",
+    "REGION" : "ARUNACHAL PRADESH",
+    "YEAR" : 1975.0,
+    "MONTH" : "AUGUST",
+    "DATA" : 185.2
+}
