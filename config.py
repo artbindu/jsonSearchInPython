@@ -2,7 +2,7 @@ import json
 
 def prob01(searchItems) :
     try :
-        data = json.load(open("data/json0.json"))
+        data = json.load(open("data/json01.json"))
         # print(len(data))
         for sItem in searchItems :
             data = data.get(sItem)
@@ -14,7 +14,7 @@ def prob01(searchItems) :
 def prob02(searchItems,searchOptions) :
     array = []
     try :
-        allData = json.load(open("data/json1.json"))
+        allData = json.load(open("data/json02.json"))
         for data in allData :
             # print(data)
             for x in searchItems :
@@ -56,4 +56,62 @@ def prob03(sourcePath, destinationPath) :
     f1.write(st)
     f1.close()
     return("paste 'json03.json' data with in 'new Mongoo Cloection'")
+
+def prob04(sPath, dpath) :
+    chArr = ['\'', 'u\'']
+    spDict = {
+        None : 'null',
+        True : 'true',
+        False : 'false',
+    }
+
+    f = open(sPath,'r')
+    st = f.read()
+    f.close()
+    # print(st)
+    # print(len(st))
+    (i, counter) = (0, 1)
+
+    # replacing:  '"' => '\"' , '\uffff' => '' , '\Uffffffff' => '' , '\xff' => ''
+    while(i<len(st)) :
+        if(st[i:i+1] == '\"') :
+            # print('get \\"')
+            st = st[0:i-1]+'\\'+st[i:len(st)]
+            i += 2
+        elif(st[i:i+2] == '\\u') :
+            # print('get \\u')
+            st = st.replace(st[i:i+6], '')
+            i -= 1
+        elif(st[i:i+2] == '\\U') :
+            # print('get \\U')
+            st = st.replace(st[i:i+10], '')
+            i -= 1
+        elif(st[i:i+2] == '\\x') :
+            # print('get \\x')
+            st = st.replace(st[i:i+4], '')
+            i -= 1
+        i += 1
+    
+    # replaceing u', ', None, True, False
+    i = 0
+    while(i<len(st)) :
+        if(st[i:i+len(chArr[counter])] == chArr[counter]) :
+            st = st.replace(st[i:i+len(chArr[counter])], '\"')
+            i = i+len(chArr[counter])
+            counter = (counter+1)%2
+
+        for key in spDict :
+            if(st[i:i+len(spDict[key])] == str(key)) :
+                st = st.replace(st[i:i+len(spDict[key])], spDict[key])
+                i += len(spDict[key])
+        i += 1
+    # print(st)
+    f1 = open(dpath,'w')
+    f1.write(st)
+    f1.close()
+
+    return("valid json data lies on data/outputdata/json04.json")
+
+
+        
     
