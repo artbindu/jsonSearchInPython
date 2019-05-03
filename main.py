@@ -10,6 +10,7 @@ print('prob01: annLength: ', data)
 
 # ---------------problem 02-------------------------------
 '''
+@Rajdipta Barman
 find out all 'url'
 so urls lies in, mongoDbConfig --> connection
                                --> url
@@ -19,7 +20,6 @@ print('prob02: urls: ', data)
 
 # ---------------problem 03-------------------------------
 '''
-@Rajdipta Barman
 if you have a mongoDB collection data; then how to store it again into data base.
     Open 'Robo 3T' --> connect any machine --> create db & collection --> Insert Document (with in new Collection) --> copy a bunch of json data and paste
     if you direct copy a mongooDB data and paste then show err: 
